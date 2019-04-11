@@ -102,7 +102,7 @@ Log into the portal http://myapps.microsoft.com with the userid and password of 
 
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
-
+Creating Domain Joined machines is not a necessity to create ESP enabled HDInsight clusters and hence is not demonstrated here. You can get further information on the process of joining machines to domain at [here](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/active-directory-ds-admin-guide-join-windows-vm-portal).
  
 ### 1.6 Configure secure LDAP for AAD-DS managed domain
 
@@ -114,9 +114,9 @@ Log into the portal http://myapps.microsoft.com with the userid and password of 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTcwMDM3LDcwODIwNDA3NiwtMTA0MD
-QwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5
-NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLT
-E3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5
-NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzA0MDAzNzMsNzA4MjA0MDc2LC0xMD
+QwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5
+NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1OS
+wtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1
+Mjk0NDk2Myw1ODc1MTQzM119
 -->
