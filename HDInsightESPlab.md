@@ -63,9 +63,14 @@ Create the Administrator group and add users to the Administrator group called â
 ### 1.4 Enable AD Domain Services
 
 Click OK to begin the creation of the Azure Active Directory Domain Services. This activity can take up to an hour to complete.
+  
+  ![Group Membership](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture8.png)
+  
+Click configure to update the DNS settings for the Virtual Network. This action updates the DNS server settings for the VNet  point to the IP address of the VMs where Azure AD domain services is available.
 
+![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture9.png)
 
-
+![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture10.png)
 ### 1.5 Join a Windows VM to manage the Domain (Optional)
 
 
@@ -80,6 +85,6 @@ Click OK to begin the creation of the Azure Active Directory Domain Services. Th
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODI5NTI3MSwxNzUxNjMyMzU1LC04ND
-E2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbLTIwMTQ3Mzk0ODEsMTc1MTYzMjM1NSwtOD
+QxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
