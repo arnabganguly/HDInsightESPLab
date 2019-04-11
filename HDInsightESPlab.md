@@ -90,7 +90,7 @@ Log into the Azure Active directory and create the following users and groups
   
 Log into the portal http://myapps.microsoft.com with the userid and password of an AD user.
 
-
+![Changepassword](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture11.png)
 
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
@@ -106,7 +106,8 @@ Log into the portal http://myapps.microsoft.com with the userid and password of 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNj
-MzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMy
-MzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbMTQwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMT
+UzNTQ0MywtMTA2MzM4NzQ4MCwxMDY1NTYwNzU5LC0xNzk0MDEz
+OTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLD
+U4NzUxNDMzXX0=
 -->
