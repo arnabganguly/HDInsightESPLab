@@ -26,7 +26,14 @@
 
 
 
-1 In the search window search for “Azure AD Domain Services” and click Create
+2. In the search window search for “Azure AD Domain Services” and click Create.  
+
+![Azure Resource Group](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture3.png)
+
+
+
+
+3. 
 
 
 
@@ -56,6 +63,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTgzMTA2MiwxOTUyOTQ0OTYzLDU4Nz
+eyJoaXN0b3J5IjpbLTU1NzcxNzEzNiwxOTUyOTQ0OTYzLDU4Nz
 UxNDMzXX0=
 -->
