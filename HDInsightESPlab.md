@@ -21,6 +21,7 @@ Log into your Azure Subscription and create a resource group(example: HDIESPDemo
 
 
 
+
 ![Resource group HDIESPDemo]([https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture2.png)
 
 ### 1.2 Configure network settings
@@ -49,5 +50,6 @@ Log into your Azure Subscription and create a resource group(example: HDIESPDemo
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbLTMyOTY3MjgxMSwxOTUyOTQ0OTYzLDU4Nz
+UxNDMzXX0=
 -->
