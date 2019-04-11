@@ -54,7 +54,9 @@
   ![Network Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture5.png)
  
 ### 1.3 Configure group membership
+Create the Administrator group and add users to the Administrator group called ‘AAD DC Administrators’. Users in this group have administration permissions on machines which are joined to this domain.  Users available to add are the users in the AAD.
 
+![Group Membership](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture5.png)
 
  
 ### 1.4 Enable AD Domain Services
@@ -75,6 +77,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTYxNzIwOSwtODQxNjIwNTgxLDE5NT
+eyJoaXN0b3J5IjpbMjA3NTY0MDczOCwtODQxNjIwNTgxLDE5NT
 I5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
