@@ -134,8 +134,8 @@ New-SelfSignedCertificate -Subject contoso.com `
 -Type SSLServerAuthentication -DnsName *.contoso.com, contoso.com
    
 ````
-
-3. 
+  
+  ![Changepassword](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture15.png)
  
 ### 1.7 Create an authorize a managed identity
 
@@ -144,9 +144,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODcyOTcxNywxNTk4MDA0NjE3LDcwOD
-IwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAy
-ODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLD
-EwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQx
-NjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDI0MTg2MjIsLTQwODcyOTcxNywxNT
+k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
+MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
+0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
+MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0Mz
+NdfQ==
 -->
