@@ -75,9 +75,9 @@ Click configure to update the DNS settings for the Virtual Network. This action 
 ### 1.5 Create HDInsight users and groups in Azure Active directory
 Log into the Azure Active directory and create the following users and groups
 
-|Group Name |Members Nam  |
-|--|--|
-|  |  |
+|Group Name |Member Name  |User ID
+|HDInsightAdministrator|HDInsight Administrator|
+|hdinsightadmin@xxxxxx.onmicrosoft.com   |
   
   
 ### 1.5 Join a Windows VM to manage the Domain (Optional)
@@ -94,7 +94,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTk5NzE4LC0xNzk0MDEzOTAzLDE3NT
-E2MzIzNTUsLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMz
-XX0=
+eyJoaXN0b3J5IjpbMTYzNTMwMDYxMywtMTc5NDAxMzkwMywxNz
+UxNjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQz
+M119
 -->
