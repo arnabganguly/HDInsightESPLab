@@ -83,7 +83,10 @@ Log into the Azure Active directory and create the following users and groups
 | KafkaControlledAccess  | Kafka Restricted User   | kafkarestricted@xxxxxx.onmicrosoft.com |
 | SparkControlledAccess  | Spark Restricted User   | sparkrestricted@xxxxxx.onmicrosoft.com |
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
-  
+    
+    ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
+      
+          ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
   
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
@@ -99,7 +102,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMzODc0ODAsMTA2NTU2MDc1OSwtMT
-c5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0
-NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbODI1MzU5NjYzLC0xMDYzMzg3NDgwLDEwNj
+U1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQxNjIw
+NTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
