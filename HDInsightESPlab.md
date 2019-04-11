@@ -83,7 +83,9 @@ Log into the Azure Active directory and create the following users and groups. T
 | KafkaControlledAccess  | Kafka Restricted User   | kafkarestricted@xxxxxx.onmicrosoft.com |
 | SparkControlledAccess  | Spark Restricted User   | sparkrestricted@xxxxxx.onmicrosoft.com |
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
-    
+  
+     
+HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided. 
    ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
       
    ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
@@ -114,9 +116,9 @@ Creating Domain Joined machines is not a necessity to create ESP enabled HDInsig
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM0NDcyMzUsNzA4MjA0MDc2LC0xMD
-QwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5
-NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1OS
-wtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1
-Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbMTU5ODAwNDYxNyw3MDgyMDQwNzYsLTEwND
+A0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkwMjgwMCwxNTY2MTk1
+OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMDY1NTYwNzU5LC
+0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MSwxOTUy
+OTQ0OTYzLDU4NzUxNDMzXX0=
 -->
