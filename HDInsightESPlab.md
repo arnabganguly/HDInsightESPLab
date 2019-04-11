@@ -48,7 +48,8 @@
 *Address Space*: 10.0.0.0/16
 *Subnet name*: domainservices
 *Subnet address range*: 10.0.0.0/24
-
+  
+  ![Network Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture5.png)
  
 ### 1.3 Configure group membership
 
@@ -72,6 +73,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc2OTg2NDgsLTg0MTYyMDU4MSwxOT
-UyOTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbNTMwMTAyNTcxLC04NDE2MjA1ODEsMTk1Mj
+k0NDk2Myw1ODc1MTQzM119
 -->
