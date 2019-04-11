@@ -28,14 +28,17 @@
 
 2. In the search window search for “Azure AD Domain Services” and click Create.  
 
-![Azure Resource Group](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture3.png)
+![Create Azure ADDS](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture3.png)
 
 
 
 
-3. 
-
-
+ 3. In the basics blade enter the below details ( or as per your choice )
+ - DNS Domain Name: contoso.com
+ - Subscription: Choose the subscription that has   owner access to Azure Active directory
+ - Resource Group: Choose the resource group you created (HDIESPDemo)
+ - Location: Choose the Azure region where you would deploy the assets (
+   East US 2)
 
 ### 1.2 Configure network settings
 
@@ -63,6 +66,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzcxNzEzNiwxOTUyOTQ0OTYzLDU4Nz
-UxNDMzXX0=
+eyJoaXN0b3J5IjpbOTU5OTYzOTQwLDE5NTI5NDQ5NjMsNTg3NT
+E0MzNdfQ==
 -->
