@@ -119,7 +119,7 @@ One would need to obtain a certificate for secure LDAP Access to the managed dom
 
 Enterprise customers would use their enterprise Certificate Authority to generate these certificates but for the purposes of this demonstration we would create a self-signed certificate.
 
-1. On a windows machine, launch Powershell and paste the below code . Note that we have used the domain name used earlier in three separate places. This certificate is valid for 365 days after the day of creation. Post creation the certificate would need to placed in the host computer’s certificate store.  
+1. On a windows machine, launch Powershell and paste the below code . Note that we have used the domain name used earlier in three separate places. This certificate is valid for 365 days after the day of creation. Post creation the certificate would need to exported and signed, steps we will accomplish next. 
 
 
    
@@ -154,10 +154,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjc5NDM5NiwtNDA4NzI5NzE3LDE1OT
-gwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQz
-NDMxLDE0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLT
-EwNjMzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUx
-NjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM1
-19
+eyJoaXN0b3J5IjpbLTEwMDU3MjM4MTMsLTQwODcyOTcxNywxNT
+k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
+MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
+0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
+MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0Mz
+NdfQ==
 -->
