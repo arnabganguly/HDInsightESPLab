@@ -143,7 +143,7 @@ New-SelfSignedCertificate -Subject contoso.com `
    
    ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
   
-  
+  4. 
 ### 1.7 Create an authorize a managed identity
 
 
@@ -151,10 +151,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE2Nzc4ODIsLTQwODcyOTcxNywxNT
-k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
-MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
-0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
-MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0Mz
-NdfQ==
+eyJoaXN0b3J5IjpbMTA5NTc5NzE0MCwtNDA4NzI5NzE3LDE1OT
+gwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQz
+NDMxLDE0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLT
+EwNjMzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUx
+NjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM1
+19
 -->
