@@ -117,9 +117,22 @@ One would need to obtain a certificate for secure LDAP Access to the managed dom
  - Obtain a certificate from a Public CA or enterprise CA
  - Create a self-signed certificate
 
-Enterprise customers would use their enterprise CA to generate these certificates but for the purposes of this demonstration we would create a self-signed certificate.
+Enterprise customers would use their enterprise Certificate Authority to generate these certificates but for the purposes of this demonstration we would create a self-signed certificate.
 
-<![if !supportLists]>1. <![endif]>On a windows machine, open Launch Powershell and use the below code . Note that we have the Domain name used earlier in 3 places. This certificate is valid for 365 days after the day of creation. Post creation the certificate is placed in the Computer’s Certificate store.
+1. On a windows machine, open Launch Powershell and use the below code . Note that we have the Domain name used earlier in 3 places. This certificate is valid for 365 days after the day of creation. Post creation the certificate is placed in the Computer’s Certificate store.  
+
+
+
+
+    $lifetime=Get-Date
+
+New-SelfSignedCertificate -Subject contoso.com `
+
+-NotAfter $lifetime.AddDays(365) -KeyUsage DigitalSignature, KeyEncipherment `
+
+-Type SSLServerAuthentication -DnsName *.contoso.com, contoso.com
+
+3. 
  
 ### 1.7 Create an authorize a managed identity
 
@@ -127,9 +140,9 @@ Enterprise customers would use their enterprise CA to generate these certificate
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDczNjYwMTMsMTU5ODAwNDYxNyw3MD
-gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
-MjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MC
-wxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0
-MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbMTc2MDUzNjI1LDE1OTgwMDQ2MTcsNzA4Mj
+A0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4
+MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMT
+A2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2
+MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
 -->
