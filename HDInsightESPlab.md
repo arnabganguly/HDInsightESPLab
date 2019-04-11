@@ -14,7 +14,7 @@
 
 
 ### 1.1 Configure Basic Settings
-Log into your Azure Subscription and create a resource group(example: HDIESPDemo)to hold the assets
+1. Log into your Azure Subscription and create a resource group(example: HDIESPDemo)to hold the assets
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture0.png)
 
@@ -23,6 +23,12 @@ Log into your Azure Subscription and create a resource group(example: HDIESPDemo
 
 
 ![Azure Resource Group](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture2.png)
+
+
+
+1 In the search window search for “Azure AD Domain Services” and click Create
+
+
 
 ### 1.2 Configure network settings
 
@@ -50,6 +56,6 @@ Log into your Azure Subscription and create a resource group(example: HDIESPDemo
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY0MTE1OSwxOTUyOTQ0OTYzLDU4Nz
+eyJoaXN0b3J5IjpbLTgzOTgzMTA2MiwxOTUyOTQ0OTYzLDU4Nz
 UxNDMzXX0=
 -->
