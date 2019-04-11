@@ -88,6 +88,9 @@ Log into the Azure Active directory and create the following users and groups
       
    ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
   
+
+
+
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
 
@@ -102,7 +105,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMD
-Y1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYy
-MDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbNjQ4NjQ0NTczLDE5MjE1MzU0NDMsLTEwNj
+MzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMy
+MzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
 -->
