@@ -78,6 +78,12 @@ Log into the Azure Active directory and create the following users and groups
 |Group Name |Member Name  |User ID
 |HDInsightAdministrator|HDInsight Administrator|
 |hdinsightadmin@xxxxxx.onmicrosoft.com   |
+
+
+|  |  |
+|--|--|
+|  |  |
+
   
   
 ### 1.5 Join a Windows VM to manage the Domain (Optional)
@@ -94,7 +100,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTMwMDYxMywtMTc5NDAxMzkwMywxNz
+eyJoaXN0b3J5IjpbMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNz
 UxNjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQz
 M119
 -->
