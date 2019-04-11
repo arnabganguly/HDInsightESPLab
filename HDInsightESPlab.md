@@ -14,7 +14,7 @@
 
 
 ### 1.1 Configure Basic Settings
-
+Log into your Azure Subscription and create a resource group(example: HDIESPDemo)to hold the assets
 
 ### 1.2 Configure network settings
 
@@ -41,3 +41,6 @@
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTg3NTE0MzNdfQ==
+-->
