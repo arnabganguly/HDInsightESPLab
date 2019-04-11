@@ -70,7 +70,9 @@ Click configure to update the DNS settings for the Virtual Network. This action 
 
 ![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture9.png)
 
-![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture10.png)
+![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture10.png)   
+  
+  
 ### 1.5 Join a Windows VM to manage the Domain (Optional)
 
 
@@ -85,6 +87,6 @@ Click configure to update the DNS settings for the Virtual Network. This action 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ3Mzk0ODEsMTc1MTYzMjM1NSwtOD
+eyJoaXN0b3J5IjpbLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtOD
 QxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
