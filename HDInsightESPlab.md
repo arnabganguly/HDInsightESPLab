@@ -143,7 +143,7 @@ New-SelfSignedCertificate -Subject contoso.com `
    
    ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
   
-  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Also Enable secure access over the internet. 
+  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Click *Enable* on both *Secure LDAP* and *Allow secure access over the internet*. 
     
     ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture17.png)
   6. 
@@ -154,7 +154,7 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTY5MzI4OSwtNDA4NzI5NzE3LDE1OT
+eyJoaXN0b3J5IjpbLTE0NTc4MzI5MCwtNDA4NzI5NzE3LDE1OT
 gwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQz
 NDMxLDE0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLT
 EwNjMzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUx
