@@ -85,8 +85,10 @@ Log into the Azure Active directory and create the following users and groups. T
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
   
      
-HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided. 
-   ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
+HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided.   
+
+
+  ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
       
    ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
   
@@ -116,9 +118,9 @@ Creating Domain Joined machines is not a necessity to create ESP enabled HDInsig
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODAwNDYxNyw3MDgyMDQwNzYsLTEwND
-A0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkwMjgwMCwxNTY2MTk1
-OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMDY1NTYwNzU5LC
-0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MSwxOTUy
-OTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbMTI1NTc3NTMxMSwxNTk4MDA0NjE3LDcwOD
+IwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAy
+ODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLD
+EwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQx
+NjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
