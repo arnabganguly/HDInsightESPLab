@@ -45,9 +45,10 @@
 ### 1.2 Configure network settings
  - Create the VNet and the Subnet in which the Azure Active Directory Domain Services will be created.  
  - *Name*: Contoso_VNet 
- - *Address Space: 10.0.0.0/16
- - Subnet name*: domainservices
- - Subnet address range*: 10.0.0.0/24
+
+ - *Address Space*: 10.0.0.0/16
+ - *Subnet name*: domainservices
+ - *Subnet address range*: 10.0.0.0/24
 
   
   ![Network Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture5.png)
@@ -74,6 +75,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYwOTg0OTUsLTg0MTYyMDU4MSwxOT
-UyOTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbMjAxOTYxNzIwOSwtODQxNjIwNTgxLDE5NT
+I5NDQ5NjMsNTg3NTE0MzNdfQ==
 -->
