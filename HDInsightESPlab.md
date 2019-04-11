@@ -40,7 +40,7 @@
  - *Location*: Choose the Azure region where you would deploy the assets (East US 2) . 
    
      
-     ![ADDS details](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture3.png)
+     ![ADDS details](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture4.png)
 
 ### 1.2 Configure network settings
 
@@ -68,6 +68,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNDU0NTg4LDE5NTI5NDQ5NjMsNTg3NT
-E0MzNdfQ==
+eyJoaXN0b3J5IjpbLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLDU4Nz
+UxNDMzXX0=
 -->
