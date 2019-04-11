@@ -34,11 +34,13 @@
 
 
  3. In the basics blade enter the below details ( or as per your choice )
- - DNS Domain Name: contoso.com
- - Subscription: Choose the subscription that has   owner access to Azure Active directory
- - Resource Group: Choose the resource group you created (HDIESPDemo)
- - Location: Choose the Azure region where you would deploy the assets (
-   East US 2)
+ - *DNS Domain Name*: contoso.com
+ - *Subscription*: Choose the subscription that has   owner access to Azure Active directory
+ - *Resource Group*: Choose the resource group you created (HDIESPDemo)
+ - *Location*: Choose the Azure region where you would deploy the assets (East US 2) . 
+   
+     
+     ![ADDS details](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture3.png)
 
 ### 1.2 Configure network settings
 
@@ -66,6 +68,6 @@
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5OTYzOTQwLDE5NTI5NDQ5NjMsNTg3NT
+eyJoaXN0b3J5IjpbMzQzNDU0NTg4LDE5NTI5NDQ5NjMsNTg3NT
 E0MzNdfQ==
 -->
