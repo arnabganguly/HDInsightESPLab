@@ -85,7 +85,7 @@ Log into the Azure Active directory and create the following users and groups
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
   
   
-### 1.5 Join a Windows VM to manage the Domain (Optional)
+### 1.6 Join a Windows VM to manage the Domain (Optional)
 
 
  
@@ -99,7 +99,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjU5MjUzNywxMDY1NTYwNzU5LC0xNz
-k0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MSwxOTUyOTQ0
-OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbLTEwNjMzODc0ODAsMTA2NTU2MDc1OSwtMT
+c5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0
+NDk2Myw1ODc1MTQzM119
 -->
