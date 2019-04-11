@@ -84,9 +84,9 @@ Log into the Azure Active directory and create the following users and groups
 | SparkControlledAccess  | Spark Restricted User   | sparkrestricted@xxxxxx.onmicrosoft.com |
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
     
-    ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
+   ![Users](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png) 
       
-          ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
+   ![Groups](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture35.png)
   
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
@@ -102,7 +102,7 @@ Log into the Azure Active directory and create the following users and groups
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1MzU5NjYzLC0xMDYzMzg3NDgwLDEwNj
-U1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQxNjIw
-NTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMD
+Y1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYy
+MDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
