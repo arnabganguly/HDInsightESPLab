@@ -9,5 +9,5 @@ HDInsight uses Azure Active Directory domain services and ESP to create and admi
 An Azure subscription with Owner access on the Azure Active directory. You could use the Azure Trial Version or MSDN Credits to get one.
 
 
-[Start Lab]https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md
+[Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
