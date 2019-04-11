@@ -62,6 +62,8 @@ Create the Administrator group and add users to the Administrator group called â
  
 ### 1.4 Enable AD Domain Services
 
+Click OK to begin the creation of the Azure Active Directory Domain Services. This activity can take up to an hour to complete.
+
 
 
 ### 1.5 Join a Windows VM to manage the Domain (Optional)
@@ -78,6 +80,6 @@ Create the Administrator group and add users to the Administrator group called â
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI1MzY5NiwxNzUxNjMyMzU1LC04ND
+eyJoaXN0b3J5IjpbMTM0ODI5NTI3MSwxNzUxNjMyMzU1LC04ND
 E2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
 -->
