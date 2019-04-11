@@ -123,9 +123,17 @@ Enterprise customers would use their enterprise Certificate Authority to generat
 
 
    
+````
 
+$lifetime=Get-Date
+
+New-SelfSignedCertificate -Subject contoso.com `
+
+-NotAfter $lifetime.AddDays(365) -KeyUsage DigitalSignature, KeyEncipherment `
+
+-Type SSLServerAuthentication -DnsName *.contoso.com, contoso.com
    
-
+````
 
 3. 
  
@@ -136,7 +144,7 @@ Enterprise customers would use their enterprise Certificate Authority to generat
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDEwNzA0NiwxNTk4MDA0NjE3LDcwOD
+eyJoaXN0b3J5IjpbLTQwODcyOTcxNywxNTk4MDA0NjE3LDcwOD
 IwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAy
 ODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLD
 EwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQx
