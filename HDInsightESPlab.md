@@ -111,6 +111,15 @@ Creating Domain Joined machines is not a necessity to create ESP enabled HDInsig
 ### 1.6 Configure secure LDAP for AAD-DS managed domain
 
 
+
+One would need to obtain a certificate for secure LDAP Access to the managed domain and one can get this through the below means
+
+ - Obtain a certificate from a Public CA or enterprise CA
+ - Create a self-signed certificate
+
+Enterprise customers would use their enterprise CA to generate these certificates but for the purposes of this demonstration we would create a self-signed certificate.
+
+<![if !supportLists]>1. <![endif]>On a windows machine, open Launch Powershell and use the below code . Note that we have the Domain name used earlier in 3 places. This certificate is valid for 365 days after the day of creation. Post creation the certificate is placed in the Computer’s Certificate store.
  
 ### 1.7 Create an authorize a managed identity
 
@@ -118,9 +127,9 @@ Creating Domain Joined machines is not a necessity to create ESP enabled HDInsig
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTc3NTMxMSwxNTk4MDA0NjE3LDcwOD
-IwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAy
-ODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLD
-EwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQx
-NjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDczNjYwMTMsMTU5ODAwNDYxNyw3MD
+gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
+MjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MC
+wxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0
+MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
