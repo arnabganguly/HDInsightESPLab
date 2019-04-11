@@ -73,7 +73,7 @@ Click configure to update the DNS settings for the Virtual Network. This action 
 ![DNS Settings](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture10.png)   
 
 ### 1.5 Create HDInsight users and groups in Azure Active directory
-Log into the Azure Active directory and create the following users and groups
+Log into the Azure Active directory and create the following users and groups. These  groups and assigned members groups to depict how this would potentially work at customer organizations and will help us understand Ranger policies later.
 
 
 | Group Name             | Members Name            | User ID                                |
@@ -114,9 +114,9 @@ Creating Domain Joined machines is not a necessity to create ESP enabled HDInsig
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDg0NTIxOSw3MDgyMDQwNzYsLTEwND
-A0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkwMjgwMCwxNTY2MTk1
-OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMDY1NTYwNzU5LC
-0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MSwxOTUy
-OTQ0OTYzLDU4NzUxNDMzXX0=
+eyJoaXN0b3J5IjpbLTE0MzM0NDcyMzUsNzA4MjA0MDc2LC0xMD
+QwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5
+NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1OS
+wtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1
+Mjk0NDk2Myw1ODc1MTQzM119
 -->
