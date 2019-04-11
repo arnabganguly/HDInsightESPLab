@@ -135,9 +135,13 @@ New-SelfSignedCertificate -Subject contoso.com `
    
 ````
   
-  ![Create_certificate](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture15.png)
+  ![Createcertificate](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture15.png)
    
-   2. To export the self-signed certificate a series of steps needs to be performed which are  documented at [li](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/active-directory-ds-admin-guide-configure-secure-ldap-export-pfx). The end of the exercise would save the password protected certificate file(*.pfx) to your local desktop or C drive.
+   2. To export the self-signed certificate a series of steps needs to be performed which are  documented at [here](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/active-directory-ds-admin-guide-configure-secure-ldap-export-pfx). At the end of the exercise save the password protected certificate file(*.pfx) to your local desktop or C drive.
+   
+   3. Login to the domain Contoso.com that you created in first exercise and click on “Secure LDAP” blade and then click Enable on the right.
+   
+   ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
   
   
 ### 1.7 Create an authorize a managed identity
@@ -147,10 +151,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDU3MjI5LC00MDg3Mjk3MTcsMTU5OD
-AwNDYxNyw3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0
-MzEsMTQwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMT
-A2MzM4NzQ4MCwxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2
-MzIzNTUsLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX
-0=
+eyJoaXN0b3J5IjpbLTE2ODE2Nzc4ODIsLTQwODcyOTcxNywxNT
+k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
+MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
+0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
+MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0Mz
+NdfQ==
 -->
