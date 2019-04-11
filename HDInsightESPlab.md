@@ -9,7 +9,7 @@
 1.5 Join a Windows VM to manage the Domain ( Optional) 
 1.6 Configure secure LDAP for AAD-DS managed domain 
 1.7 Create an authorize a managed identity 
-#### [1.8 Create ESP enabled HDInsight cluster](#1.8-create-esp-enabled-hdinsight-cluster) 
+#### [1.8 Create ESP enabled HDInsight cluster](#18-create-esp-enabled-hdinsight-cluster) 
  
 
 ### 1.2 Configure network settings
@@ -22,6 +22,5 @@
 ### 1.4 Enable AD Domain Services
 ### 1.5 Join a Windows VM to manage the Domain ( Optional) 
 ### 1.6 Configure secure LDAP for AAD-DS managed domain 
-### 1.7 Create an authorize a managed identity 
-### 1.8 Create ESP enabled HDInsight cluster 
-
+### 1.7 Create an authorize a managed identity
+### 1.8 Create ESP enabled HDInsight cluster
