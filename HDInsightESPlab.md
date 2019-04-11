@@ -93,7 +93,8 @@ Log into the portal http://myapps.microsoft.com with the userid and password of 
 ![Changepassword](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture11.png)
   
   ![Changepassword](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture12.png)   
-    
+      
+      
 ![Changepassword](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture13.png)    
 ### 1.6 Join a Windows VM to manage the Domain (Optional)
 
@@ -109,8 +110,8 @@ Log into the portal http://myapps.microsoft.com with the userid and password of 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMDg4NzQzLDE0MDk5MDI4MDAsMTU2Nj
-E5NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1
-OSwtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMT
-k1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbLTE1OTgzNDM0MzEsMTQwOTkwMjgwMCwxNT
+Y2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MCwxMDY1NTYw
+NzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0MTYyMDU4MS
+wxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
