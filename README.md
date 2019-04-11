@@ -10,5 +10,6 @@ An Azure subscription with Owner access on the Azure Active directory. You could
 
 
 ```
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link]
+<https://www.google.com>
 ```
