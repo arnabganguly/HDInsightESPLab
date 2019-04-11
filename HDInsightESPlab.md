@@ -122,15 +122,11 @@ Enterprise customers would use their enterprise Certificate Authority to generat
 1. On a windows machine, open Launch Powershell and use the below code . Note that we have the Domain name used earlier in 3 places. This certificate is valid for 365 days after the day of creation. Post creation the certificate is placed in the Computer’s Certificate store.  
 
 
+    New-SelfSignedCertificate -Subject contoso.com `
 
 
-    $lifetime=Get-Date
+   
 
-New-SelfSignedCertificate -Subject contoso.com `
-
--NotAfter $lifetime.AddDays(365) -KeyUsage DigitalSignature, KeyEncipherment `
-
--Type SSLServerAuthentication -DnsName *.contoso.com, contoso.com
 
 3. 
  
@@ -140,9 +136,9 @@ New-SelfSignedCertificate -Subject contoso.com `
 
 ### 1.8 Create ESP enabled HDInsight cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDUzNjI1LDE1OTgwMDQ2MTcsNzA4Mj
-A0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4
-MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMT
-A2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2
-MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbLTIwNDQ1NTY4MTUsMTU5ODAwNDYxNyw3MD
+gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
+MjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MC
+wxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0
+MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
