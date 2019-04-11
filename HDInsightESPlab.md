@@ -141,12 +141,16 @@ New-SelfSignedCertificate -Subject contoso.com `
    
    3. Login to the domain Contoso.com that you created earlier , click on *Secure LDAP* blade and then click *Enable* on the right. 
    
-   ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
+ 
+   ![SecureLDAP1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
   
-  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Click *Enable* on both *Secure LDAP* and *Allow secure access over the internet*. 
+  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Click *Enable* on both *Secure LDAP* and *Allow secure access over the internet*.   
+
+![SecureLDAP2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture17.png)
+     
+      
     
-    ![SecureLDAP](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture17.png)
-  6. 
+  5. 
 ### 1.7 Create an authorize a managed identity
 
 
@@ -154,10 +158,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc4MzI5MCwtNDA4NzI5NzE3LDE1OT
-gwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQz
-NDMxLDE0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLT
-EwNjMzODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUx
-NjMyMzU1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM1
-19
+eyJoaXN0b3J5IjpbLTIwOTQwMDM4NzgsLTQwODcyOTcxNywxNT
+k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
+MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
+0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
+MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0Mz
+NdfQ==
 -->
