@@ -1,6 +1,6 @@
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. After 
+1. After creation of the HDInsight cluster all the users who were part of the creation process should be part of the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NTk1NDA2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
