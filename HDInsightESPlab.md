@@ -166,13 +166,13 @@ New-SelfSignedCertificate -Subject contoso.com `
   
   ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture22.png)
   
-  
+  ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture23.png)
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjc5Mzk3OSwtMTcwNzAxODk2LC0xMD
+eyJoaXN0b3J5IjpbMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMD
 c2MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYx
 Nyw3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMT
 QwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4
