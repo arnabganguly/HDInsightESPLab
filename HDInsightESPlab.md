@@ -154,10 +154,10 @@ New-SelfSignedCertificate -Subject contoso.com `
     
  
 ### 1.7 Create an authorize a managed identity
-1. Go to the central search bar and search for managed identities. 
+1. Go to the central search bar and search for managed identities. For more information on managed identities 
 ![SecureLDAP2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture20.png)
   
- 2. Create a Managed identity : MGI1  as shown below
+ 2. Populated the fields and click *Create* to create a *User Assigned Managed Identity* MGI1  as shown below
     
     ![SecureLDAP2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture21.png)
   
@@ -165,10 +165,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyOTIxNzk4LC0xNzA3MDE4OTYsLTEwNz
-YyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0NjE3
-LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxND
-A5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3
-NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NS
-wtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTExNDAxODM0ODksLTE3MDcwMTg5NiwtMT
+A3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2
+MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLD
+E0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNjMz
+ODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMyMz
+U1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
 -->
