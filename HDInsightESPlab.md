@@ -191,7 +191,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
     
     ![Networking4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture27.png)
 
-## 2 Create HDInsight cluster with Enterprise Security Package enabled 
+### 2 Create HDInsight cluster with Enterprise Security Package enabled 
 
 #### [2.1 Create ESP enabled HDInsight cluster](#21-create-esp-enabled-hdinsight-cluster-1)  
  
@@ -256,7 +256,7 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDcwMTgzNywtMjY5NDcyNTk2LC0xMD
+eyJoaXN0b3J5IjpbMjA0MDI4Nzc4OCwtMjY5NDcyNTk2LC0xMD
 MwMDQxMTY5LC00OTI0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgw
 NTgxNSwzNTE1MjIwMzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OC
 wxMzAwNTg5MTgyLDE5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcw
