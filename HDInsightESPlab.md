@@ -12,7 +12,7 @@
 #### [1.9 Networking](#19-networking-1) 
 
 ### 2: Create HDInsight cluster with Enterprise Security Package enabled 
-#### [2.1 Create an ESP enabled HDInsight cluster](#21-create-esp-enabled-hdinsight-cluster-1)  
+#### [2.1 Create an ESP enabled HDInsight cluster](#21-create-esp-enabled-hdinsight-cluster)  
 
 
 ### 1.1 Configure Basic Settings
@@ -256,11 +256,11 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5ODkyODQwLC0yNjk0NzI1OTYsLTEwMz
-AwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1
-ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LD
-EzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3
-MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNy
-wxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5
-ODM0MzQzMV19
+eyJoaXN0b3J5IjpbLTE0NDMyNDE1MjQsNjg5ODkyODQwLC0yNj
+k0NzI1OTYsLTEwMzAwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgy
+MjYyMywxMTM1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MC
+wxMzU5MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2
+NjgyNzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOT
+QsLTQwODcyOTcxNywxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0
+MDQwODY0Nl19
 -->
