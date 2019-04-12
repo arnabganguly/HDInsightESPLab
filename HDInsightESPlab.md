@@ -252,15 +252,17 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 This concludes the deployment of an HDInsight cluster with Enterprise Security Package enabled. 
 
-Please refer to links below to launch Ranger.
+Please move to the next section to launch Apache Ranger and understand Ranger Policy management. 
+
+[Next](https://github.com/arnabganguly/HDInsightESPLab/blob/master/RangerPolicyMgmt.md) 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODA5ODAxMSwxNjQzMTk3MTI1LDY4OT
-g5Mjg0MCwtMjY5NDcyNTk2LC0xMDMwMDQxMTY5LC00OTI0Mzk5
-OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIwMzksLT
-EzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5ODY0
-MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3OT
-ksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MDgy
-MDQwNzZdfQ==
+eyJoaXN0b3J5IjpbMTc1MDg3NjY5OCwxNzU4MDk4MDExLDE2ND
+MxOTcxMjUsNjg5ODkyODQwLC0yNjk0NzI1OTYsLTEwMzAwNDEx
+NjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LD
+M1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1
+ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OT
+YsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4
+MDA0NjE3XX0=
 -->
