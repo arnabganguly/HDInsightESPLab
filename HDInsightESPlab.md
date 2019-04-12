@@ -211,9 +211,11 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
   
     
 2. In the *Security + networking* blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
- - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select: *HDInsight Administrator(hdinsightadmin@xxxxxx.onmicrosoft.com)*
+ - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select 
+ User: *HDInsight Administrator(hdinsightadmin@xxxxxx.onmicrosoft.com)*
  
- - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. User's assigned to this group will have access to the cluster. Select Group: *HbaseControlledAccess*. Note that this Group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
+ - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. User's assigned to this group will have access to the cluster. For this lab select 
+Group: *HbaseControlledAccess*. Note that this Group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
 
  - *LDAPS URL* :   Leave it at default
      ldaps://contoso.com:636
@@ -257,11 +259,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk0OTc5MzcsMTc1MDg3NjY5OCwxNz
-U4MDk4MDExLDE2NDMxOTcxMjUsNjg5ODkyODQwLC0yNjk0NzI1
-OTYsLTEwMzAwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMy
-wxMTM1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5
-MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNz
-E2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQw
-ODcyOTcxN119
+eyJoaXN0b3J5IjpbMTkwMzM4MDE2OCwxNzUwODc2Njk4LDE3NT
+gwOTgwMTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5
+NiwtMTAzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLD
+ExMzU4MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkx
+Njk4NDgsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MT
+YsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4
+NzI5NzE3XX0=
 -->
