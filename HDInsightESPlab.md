@@ -193,11 +193,11 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
- - Search HDInsight from central search field and then click *Create*.
+1. Search HDInsight from central search field and then click *Create*. More details on how to create HDInsight clusters please refer this link. 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
- - Choose ‘*Custom*’ on create options. Populate fields in the Basics blade. HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop , Kafka and Spark as cluster types during creation times. Choose Hbase to start with.
+ 2. Choose ‘*Custom*’ on create options. Populate fields in the Basics blade. HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop , Kafka and Spark as cluster types during creation times. Choose Hbase to start with.
   
 ![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
   
@@ -231,13 +231,15 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 4. In the storage blade populate details of the storage account.
 
-6.  
+5. In the Cluster Size blade choose the number of datanodes and zookeeper nodes( for Kafka and Hbase cluster types ).
+
+7. Leave the Script Actions blade to default 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4ODUzNzQsLTEwMzAwNDExNjksLT
-Q5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUy
-MjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxOD
-IsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEw
-NzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0Nj
-E3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwx
-NDA5OTAyODAwXX0=
+eyJoaXN0b3J5IjpbNDU3MjMyMzgwLC0xMDMwMDQxMTY5LC00OT
+I0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIw
+MzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLD
+E5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2
+MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNy
+w3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQw
+OTkwMjgwMF19
 -->
