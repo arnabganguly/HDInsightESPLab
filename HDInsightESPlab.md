@@ -220,14 +220,14 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 
->**Note**
-Choose the Virtual Network and the Subnet in which the HDInsight cluster will be created in. For this example we would create the HDInsight cluster in a different Subnet:HDInsight within VNet:Contoso_VNet. You could also choose to create HDInsight in a different VNet altogether in which case you would have to configure VNet Peering and port forwarding between the VNets..
+>**Note** 
+>Choose the Virtual Network and the Subnet in which the HDInsight cluster will be created in. For this example we would create the HDInsight cluster in a different Subnet:HDInsight within VNet:Contoso_VNet. You could also choose to create HDInsight in a different VNet altogether in which case you would have to configure VNet Peering and port forwarding between the VNets..
 
 
 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mjg3OTA3MywtMTkyMzgyMjYyMywxMT
+eyJoaXN0b3J5IjpbMTkwMTQ3NjI2MywtMTkyMzgyMjYyMywxMT
 M1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5
 ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC
 0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcy
