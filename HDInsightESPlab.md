@@ -178,17 +178,21 @@ After the AD-DS service is created a DNS server is created on the AD VM. the AD-
   
  ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture25.png) 
   
-If the HDInsight Cluster is created in a different VNet, the VNets must be peered.  Optionally you could choose to create the HDInsight Cluster in a  different subnet in the same VNet. 
+If the HDInsight Cluster is created in a different VNet, these virtual networks would need to be peered.  Optionally you could choose to create the HDInsight Cluster in a  different subnet in the same VNet which this lab follows.
 
+Create a new subnet in which the HDInsight c 
+
+
+![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture26.png)
 
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjM2NDM1OCwxOTg2NDI2NDE2LDExMz
-Y2ODI3MTYsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5
-NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MTcsNzA4MjA0MDc2LC0xMD
-QwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5
-NTk0LDE5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1OS
-wtMTc5NDAxMzkwMywxNzUxNjMyMzU1LC04NDE2MjA1ODEsMTk1
-Mjk0NDk2M119
+eyJoaXN0b3J5IjpbNTk0Nzc1ODksMTk4NjQyNjQxNiwxMTM2Nj
+gyNzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQs
+LTQwODcyOTcxNywxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0MD
+QwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5
+NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLT
+E3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQxNjIwNTgxLDE5NTI5
+NDQ5NjNdfQ==
 -->
