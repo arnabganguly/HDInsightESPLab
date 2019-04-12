@@ -215,7 +215,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  User: *HDInsight Administrator(hdinsightadmin@xxxxxx.onmicrosoft.com)*
  
  - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. User's assigned to this group will have access to the cluster. For this lab select 
-Group: *HbaseControlledAccess*. Note that this Group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
+Group: *HbaseControlledAccess*. Please note that this group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
 
  - *LDAPS URL* :   Leave it at default
      ldaps://contoso.com:636
@@ -259,11 +259,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzM4MDE2OCwxNzUwODc2Njk4LDE3NT
-gwOTgwMTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5
-NiwtMTAzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLD
-ExMzU4MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkx
-Njk4NDgsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MT
-YsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4
-NzI5NzE3XX0=
+eyJoaXN0b3J5IjpbLTE1Nzk3OTE0NTIsMTc1MDg3NjY5OCwxNz
+U4MDk4MDExLDE2NDMxOTcxMjUsNjg5ODkyODQwLC0yNjk0NzI1
+OTYsLTEwMzAwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMy
+wxMTM1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5
+MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNz
+E2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQw
+ODcyOTcxN119
 -->
