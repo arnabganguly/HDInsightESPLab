@@ -235,15 +235,17 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 4. In the *Storage* blade populate details of the storage account.
 
-5. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes( for Kafka and Hbase cluster types ).
+5. Leave the *Applications* Blade to default with no applications selected.
 
-7. Leave the Script Actions blade to default 
+7. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
+
+8. Leave the *Script Actions* blade to default with no script actions.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDE0NjQ3MSwtMTAzMDA0MTE2OSwtND
-kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
-MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
-wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
-NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MT
-csNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0
-MDk5MDI4MDBdfQ==
+eyJoaXN0b3J5IjpbLTExNTY4ODIyMTQsLTEwMzAwNDExNjksLT
+Q5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUy
+MjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxOD
+IsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEw
+NzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0Nj
+E3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwx
+NDA5OTAyODAwXX0=
 -->
