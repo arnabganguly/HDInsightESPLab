@@ -216,7 +216,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
 
- ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
+ ![HDICreate4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
 
 
 
@@ -229,7 +229,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjA5MjUxOSwtMTAzMDA0MTE2OSwtND
+eyJoaXN0b3J5IjpbLTU4MzQ3MzgyNywtMTAzMDA0MTE2OSwtND
 kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
 MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
 wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
