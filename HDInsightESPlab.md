@@ -193,7 +193,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
-1. Search HDInsight from central search field and then click *Create*. More details on how to create HDInsight clusters please refer this link. 
+1. Search HDInsight from central search field and then click *Create*. More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
@@ -235,7 +235,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 7. Leave the Script Actions blade to default 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MjMyMzgwLC0xMDMwMDQxMTY5LC00OT
+eyJoaXN0b3J5IjpbNzkyNTM2MjgwLC0xMDMwMDQxMTY5LC00OT
 I0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIw
 MzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLD
 E5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2
