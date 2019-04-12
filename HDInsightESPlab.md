@@ -199,13 +199,20 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
   
   2. Choose ‘*Custom*’ on create options. Populate fields in the Basics blade. HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop , Kafka and Spark as cluster types during creation times. Choose Hbase to start with.
   
+![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
   
+    
+   3. In the security and Networking blade choose enabled.
+
+<![if !supportLists]>a. <![endif]>Cluster Admin: Select the Cluster admin user from the users available in Azure
+
+Cluster access group: Choose the Azure active directory group that would have access to the cluster. People assigned to this group will have access to the cluster.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTkwODUzNCwxMzAwNTg5MTgyLDE5OD
-Y0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3
-OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MD
-gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
-MjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MC
-wxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0
-MTYyMDU4MV19
+eyJoaXN0b3J5IjpbNTc5MzA0MDA1LDEzMDA1ODkxODIsMTk4Nj
+QyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5
+OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0NjE3LDcwOD
+IwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAy
+ODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLD
+EwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NSwtODQx
+NjIwNTgxXX0=
 -->
