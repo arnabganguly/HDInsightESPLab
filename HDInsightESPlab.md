@@ -8,8 +8,8 @@
 #### [1.4 Enable AD Domain Services](#14-enable-ad-domain-services-1)
 #### [1.5 Create HDInsight users and groups in Azure Active directory](#15-create-hdinsight-users-and-groups-in-azure-active-directory-1) 
 #### [1.6 Join a Windows VM to manage the Domain (Optional)](#16-configure-secure-ldap-for-aad-ds-managed-domain) 
-#### [1.7 Create and authorize a managed identity](#17-create-and-authorize-a-managed-identity) 
-#### [1.9 Networking](#19-networking) 
+#### [1.7 Create and authorize a managed identity](#17-create-and-authorize-a-managed-identity-1) 
+#### [1.9 Networking](#19-networking-1) 
 #### [2.0 Create ESP enabled HDInsight cluster](#20-create-esp-enabled-hdinsight-cluster-1) 
  
 
@@ -253,7 +253,7 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTcwODcwOCwtMTAzMDA0MTE2OSwtND
+eyJoaXN0b3J5IjpbLTI2OTQ3MjU5NiwtMTAzMDA0MTE2OSwtND
 kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
 MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
 wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
