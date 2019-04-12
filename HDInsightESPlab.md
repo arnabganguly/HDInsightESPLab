@@ -203,15 +203,17 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
   
     
 2. In the security and Networking blade choose enabled and the populate the below fields. 
- - Cluster Admin: Select the Cluster admin user from the users available
+ - *Cluster Admin*: Select the Cluster admin user from the users available
    in Azure.
  
- - Cluster access group: Choose the Azure active directory group that
-   would have access to the cluster. People assigned to this group will 
-   have access to the cluster.
+ - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. People assigned to this group will have access to the cluster.  
+
+![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYyNDY1MSwxMzAwNTg5MTgyLDE5OD
+eyJoaXN0b3J5IjpbMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5OD
 Y0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3
 OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MD
 gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
