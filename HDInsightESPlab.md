@@ -193,15 +193,15 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
-1. Search HDInsight from central search field and then click *Create*. More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+1. Search HDInsight from central search field in the Azure Portal and then click *Create*. More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
- 2. Choose ‘*Custom*’ on create options. Populate fields in the *Basics* blade. 
+ 2. Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. 
 
 >**Note:**
 > 
->HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop , Kafka and Spark as cluster types during creation times. Choose Hbase to start with.
+>HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop ,Kafka and Spark as cluster types during creation.
   
 ![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
   
@@ -239,11 +239,11 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 7. Leave the Script Actions blade to default 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0NjU1NjM4LC0xMDMwMDQxMTY5LC00OT
-I0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIw
-MzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLD
-E5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2
-MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNy
-w3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQw
-OTkwMjgwMF19
+eyJoaXN0b3J5IjpbMTcwMDE0NjQ3MSwtMTAzMDA0MTE2OSwtND
+kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
+MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
+wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
+NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MT
+csNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0
+MDk5MDI4MDBdfQ==
 -->
