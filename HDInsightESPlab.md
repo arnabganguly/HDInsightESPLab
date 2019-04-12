@@ -6,6 +6,7 @@
 #### [1.2 Configure network settings](#12-configure-network-settings-1)
 #### [1.3 Configure group membership](#13-configure-group-membership)
 #### [1.4 Enable AD Domain Services](#14-enable-ad-domain-services)
+#### [1.5 Create HDInsight users and groups in Azure Active directory](#15-create-hdinsight-users-and-groups-in-azure-active-directory) 
 #### [1.5 Join a Windows VM to manage the Domain](#15-join-a-windows-vm-to-manage-the-domain-optional) 
 #### [1.6 Configure secure LDAP for AAD-DS managed domain](#16-configure-secure-ldap-for-aad-ds-managed-domain) 
 #### [1.7 Create an authorize a managed identity](#17-create-an-authorize-a-managed-identity) 
@@ -252,11 +253,11 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNTU3NTk3LC0xMDMwMDQxMTY5LC00OT
-I0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIw
-MzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLD
-E5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2
-MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNy
-w3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQw
-OTkwMjgwMF19
+eyJoaXN0b3J5IjpbMTg4MTEwNzkxOCwtMTAzMDA0MTE2OSwtND
+kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
+MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
+wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
+NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MT
+csNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0
+MDk5MDI4MDBdfQ==
 -->
