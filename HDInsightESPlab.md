@@ -144,7 +144,7 @@ New-SelfSignedCertificate -Subject contoso.com `
  
    ![SecureLDAP1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture16.png)   
   
-  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Click *Enable* on both *Secure LDAP* and *Allow secure access over the internet*.  Once done click *Save*. This process takes 10 - 15 minutes to complete.  
+  4.  To enable secure LDAP Access over internet. Point to the LDAP certificate saved in the earlier step and enter the password used to decrypt the certificate. Click *Enable* on both *Secure LDAP* and *Allow secure access over the internet*. Once done click *Save*. This process takes 10 - 15 minutes to complete.  
 
 ![SecureLDAP2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture17.png)
      
@@ -166,10 +166,10 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI4ODU5MDAsLTE3MDcwMTg5NiwtMT
-A3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2
-MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLD
-E0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNjMz
-ODc0ODAsMTA2NTU2MDc1OSwtMTc5NDAxMzkwMywxNzUxNjMyMz
-U1LC04NDE2MjA1ODEsMTk1Mjk0NDk2Myw1ODc1MTQzM119
+eyJoaXN0b3J5IjpbMjAzNzQwODkyOCwtMTcwNzAxODk2LC0xMD
+c2MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYx
+Nyw3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMT
+QwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4
+NzQ4MCwxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNT
+UsLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
