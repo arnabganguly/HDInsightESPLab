@@ -154,7 +154,8 @@ New-SelfSignedCertificate -Subject contoso.com `
     
  
 ### 1.7 Create an authorize a managed identity
-1. Go to the central search bar and search for managed identities. For more information on managed identities 
+1. Go to the central search bar and search for managed identities. For more information on managed identities click [here](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview).   
+
 ![SecureLDAP2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture20.png)
   
  2. Populated the fields and click *Create* to create a *User Assigned Managed Identity* MGI1  as shown below
@@ -165,7 +166,7 @@ New-SelfSignedCertificate -Subject contoso.com `
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAxODM0ODksLTE3MDcwMTg5NiwtMT
+eyJoaXN0b3J5IjpbLTEwODI4ODU5MDAsLTE3MDcwMTg5NiwtMT
 A3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2
 MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLD
 E0MDk5MDI4MDAsMTU2NjE5NTk0LDE5MjE1MzU0NDMsLTEwNjMz
