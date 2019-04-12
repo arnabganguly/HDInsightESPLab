@@ -197,11 +197,11 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  
 
 ### 2.1 Create an ESP enabled HDInsight cluster
-1. Search HDInsight from central search field in the Azure Portal and then click *Create*. Choose *Cluster type* as *HBase* for this lab.  More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+1. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
- 2. Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. 
+ 2. Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
 
 >**Note:**
 > 
@@ -259,11 +259,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjY1MjUwMywxNzUwODc2Njk4LDE3NT
-gwOTgwMTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5
-NiwtMTAzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLD
-ExMzU4MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkx
-Njk4NDgsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MT
-YsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4
-NzI5NzE3XX0=
+eyJoaXN0b3J5IjpbMjAyMzIzMjU1LDE3NTA4NzY2OTgsMTc1OD
+A5ODAxMSwxNjQzMTk3MTI1LDY4OTg5Mjg0MCwtMjY5NDcyNTk2
+LC0xMDMwMDQxMTY5LC00OTI0Mzk5OTEsLTE5MjM4MjI2MjMsMT
+EzNTgwNTgxNSwzNTE1MjIwMzksLTEzODA3OTU0OTAsMTM1OTE2
+OTg0OCwxMzAwNTg5MTgyLDE5ODY0MjY0MTYsMTEzNjY4MjcxNi
+wtMTcwNzAxODk2LC0xMDc2MjY3OTksNDI3MDI1MDk0LC00MDg3
+Mjk3MTddfQ==
 -->
