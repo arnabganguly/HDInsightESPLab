@@ -210,18 +210,19 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
  - *LDAPS URL* :   Leave it at default
      ldaps://contoso.com:636
- - 
+ - *Virtual Network*: Contoso_Vnet/HDIESPDemo
+ - *Subnet*: HDInsight
 
 ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzE3ODcwMSwxMzU5MTY5ODQ4LDEzMD
-A1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4
-OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNT
-k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
-MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
-0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
-MTYzMjM1NV19
+eyJoaXN0b3J5IjpbLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMz
+AwNTg5MTgyLDE5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAx
+ODk2LC0xMDc2MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMT
+U5ODAwNDYxNyw3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgz
+NDM0MzEsMTQwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0My
+wtMTA2MzM4NzQ4MCwxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3
+NTE2MzIzNTVdfQ==
 -->
