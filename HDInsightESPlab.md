@@ -225,16 +225,19 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 >Choose the Virtual Network and the Subnet in which the HDInsight cluster will be created in. For this example we would create the HDInsight cluster in a different Subnet:*HDInsight* within VNet:*Contoso_VNet*. You could also choose to create HDInsight in a different VNet altogether in which case you would have to configure VNet Peering and port forwarding between the VNets.
 
 
-3. In the *User-assigned managed identity* section select the Managed Identity that was created in section 1.7.
+3. In the *User-assigned managed identity* section select the Managed Identity *MGI1* that was created in section 1.7.
 
 ![HDICreate5](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture32.png)
 
+4. In the storage blade populate details of the storage account.
+
+6.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDYzMTkxNywtMTAzMDA0MTE2OSwtND
-kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
-MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
-wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
-NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MT
-csNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0
-MDk5MDI4MDBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzk4ODUzNzQsLTEwMzAwNDExNjksLT
+Q5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUy
+MjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxOD
+IsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEw
+NzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0Nj
+E3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwx
+NDA5OTAyODAwXX0=
 -->
