@@ -37,7 +37,7 @@
  - *DNS Domain Name*: contoso.com
  - *Subscription*: Choose the subscription that has   owner access to Azure Active directory
  - *Resource Group*: Choose the resource group you created (HDIESPDemo)
- - *Location*: Choose the Azure region where you would deploy the assets (East US 2) . 
+ - *Location*: Choose the Azure region where you would deploy the assets (East US 2)  
    
      
      ![ADDS details](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture4.png)
@@ -184,14 +184,18 @@ After the AD-DS service is created a DNS server is created on the AD VM. the AD-
 If the HDInsight Cluster is created in a different VNet, these virtual networks would need to be peered.  Optionally you could choose to create the HDInsight Cluster in a  different subnet in the same VNet which this lab follows.
 
 Create a new subnet in which the HDInsight cluster will be deployed in the subsequent steps.  
-  
+   - *Name*: Contoso_
+ - *Address Space*: 10.0.0.0/24
+ - *Subnet name*: domainservices
+ - *Subnet address range*: 10.0.0.0/24
   ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture27.png)
+
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDg5MTM3NiwxMzAwNTg5MTgyLDE5OD
+eyJoaXN0b3J5IjpbMTIxNDk4MjkzOSwxMzAwNTg5MTgyLDE5OD
 Y0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3
 OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MD
 gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
