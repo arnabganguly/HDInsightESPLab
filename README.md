@@ -6,8 +6,12 @@ HDInsight uses Azure Active Directory domain services and ESP to create and admi
 
 **What you need?**
 
-An Azure subscription with Owner access on the Azure Active directory. You could use the Azure Trial Version or MSDN Credits to get one.
+1. An Azure subscription with Owner access on the Azure Active directory. You could use the Azure Trial Version or MSDN Credits to get one.
+2. Contr
 
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzQ5MDU0NTFdfQ==
+-->
