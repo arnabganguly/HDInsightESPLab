@@ -211,9 +211,9 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
   
     
 2. In the *Security + networking* blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
- - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select *HDInsight Administrator(	*
+ - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select: *HDInsight Administrator(hdinsightadmin@xxxxxx.onmicrosoft.com)*
  
- - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. People assigned to this group will have access to the cluster.
+ - *Cluster access group*: Choose the Azure active directory group that would have access to the cluster. User's assigned to this group will have access to the cluster.
 
  - *LDAPS URL* :   Leave it at default
      ldaps://contoso.com:636
@@ -257,7 +257,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTYzMzgwNSwxNzUwODc2Njk4LDE3NT
+eyJoaXN0b3J5IjpbMTYzNzI3MjI0OSwxNzUwODc2Njk4LDE3NT
 gwOTgwMTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5
 NiwtMTAzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLD
 ExMzU4MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkx
