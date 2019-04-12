@@ -212,6 +212,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
      ldaps://contoso.com:636
  - *Virtual Network*: Contoso_Vnet/HDIESPDemo
  - *Subnet*: HDInsight
+ - *Identity*: MGI1
 
 ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
 
@@ -221,7 +222,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDc0NDI3MywtMTM4MDc5NTQ5MCwxMz
+eyJoaXN0b3J5IjpbMTI2MDAxODE0MCwtMTM4MDc5NTQ5MCwxMz
 U5MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2Njgy
 NzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLT
 QwODcyOTcxNywxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQw
