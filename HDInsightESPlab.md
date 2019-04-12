@@ -174,12 +174,12 @@ New-SelfSignedCertificate -Subject contoso.com `
   
 After the AD-DS service is created a DNS server is created on the AD VM. the AD-DS virtual network must be changed to point to these DNS servers. 
 
-![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture24.png)
+![Networking1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture24.png)
   
- ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture25.png) 
+ ![Networking2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture25.png) 
   
 
-![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture26.png)   
+![Networking3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture26.png)   
 
 If the HDInsight Cluster is created in a different VNet, these virtual networks would need to be peered.  Optionally you could choose to create the HDInsight Cluster in a  different subnet in the same VNet which this lab follows.
 
@@ -188,18 +188,18 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  - *Subnet name*: HDInsight
  - *Subnet address range*: 10.0.0.0/24
     
-    ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture27.png)
+    ![Networking4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture27.png)
 
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
  - Search HDInsight from central search field and then click *Create*.
    
-   ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
+   ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
  - Choose ‘*Custom*’ on create options. Populate fields in the Basics blade. HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop , Kafka and Spark as cluster types during creation times. Choose Hbase to start with.
   
-![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
+![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
   
     
 2. In the security and Networking blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier. Populate the fields in the blade as described below.  
@@ -214,7 +214,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  - *Subnet*: HDInsight
  - *Identity*: MGI1
 
-![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
+![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
 
  ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
 
@@ -229,7 +229,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzA4ODE3MywtMTAzMDA0MTE2OSwtND
+eyJoaXN0b3J5IjpbMTA4MjA5MjUxOSwtMTAzMDA0MTE2OSwtND
 kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
 MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
 wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
