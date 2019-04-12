@@ -213,16 +213,19 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  - *Virtual Network*: Contoso_Vnet/HDIESPDemo
  - *Subnet*: HDInsight
 
-![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png)
+![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
+
+ ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
+
 
 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NDIxNzczLC0xMzgwNzk1NDkwLDEzNT
-kxNjk4NDgsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3
-MTYsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtND
-A4NzI5NzE3LDE1OTgwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4
-NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5NTk0LD
-E5MjE1MzU0NDMsLTEwNjMzODc0ODAsMTA2NTU2MDc1OSwtMTc5
-NDAxMzkwM119
+eyJoaXN0b3J5IjpbLTM5MDc0NDI3MywtMTM4MDc5NTQ5MCwxMz
+U5MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2Njgy
+NzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLT
+QwODcyOTcxNywxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQw
+ODY0NiwtMTU5ODM0MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NC
+wxOTIxNTM1NDQzLC0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3
+OTQwMTM5MDNdfQ==
 -->
