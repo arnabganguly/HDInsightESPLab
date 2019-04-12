@@ -1,6 +1,6 @@
 ## Create an ESP enabled HDInsight cluster
 
-### 1 Set up Active Directory Domain Services 
+### 1: Set up Active Directory Domain Services 
 
 #### [1.1 Configure Basic Settings](#11-configure-basic-settings)
 #### [1.2 Configure network settings](#12-configure-network-settings-1)
@@ -11,9 +11,8 @@
 #### [1.7 Create and authorize a managed identity](#17-create-and-authorize-a-managed-identity-1) 
 #### [1.9 Networking](#19-networking-1) 
 
-### 2 Create HDInsight cluster with Enterprise Security Package enabled 
-
-#### [2.1 Create ESP enabled HDInsight cluster](#21-create-esp-enabled-hdinsight-cluster-1)  
+### 2: Create HDInsight cluster with Enterprise Security Package enabled 
+#### [2.1 Create an ESP enabled HDInsight cluster](#21-create-esp-enabled-hdinsight-cluster-1)  
 
 
 ### 1.1 Configure Basic Settings
@@ -257,11 +256,11 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ4NzI2MDksLTI2OTQ3MjU5NiwtMT
-AzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4
-MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4ND
-gsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3
-MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5Nz
-E3LDE1OTgwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0x
-NTk4MzQzNDMxXX0=
+eyJoaXN0b3J5IjpbNjg5ODkyODQwLC0yNjk0NzI1OTYsLTEwMz
+AwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1
+ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LD
+EzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3
+MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNy
+wxNTk4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5
+ODM0MzQzMV19
 -->
