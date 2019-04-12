@@ -197,7 +197,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  
 
 ### 2.1 Create an ESP enabled HDInsight cluster
-1. Search HDInsight from central search field in the Azure Portal and then click *Create*. More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+1. Search HDInsight from central search field in the Azure Portal and then click *Create*. Choose *Cluster type* as *HBase* for this lab.  More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
@@ -259,11 +259,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxOTAwMjMsMTc1MDg3NjY5OCwxNzU4MD
-k4MDExLDE2NDMxOTcxMjUsNjg5ODkyODQwLC0yNjk0NzI1OTYs
-LTEwMzAwNDExNjksLTQ5MjQzOTk5MSwtMTkyMzgyMjYyMywxMT
-M1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5
-ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC
-0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcy
-OTcxN119
+eyJoaXN0b3J5IjpbMTYwMjY1MjUwMywxNzUwODc2Njk4LDE3NT
+gwOTgwMTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5
+NiwtMTAzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLD
+ExMzU4MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkx
+Njk4NDgsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MT
+YsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4
+NzI5NzE3XX0=
 -->
