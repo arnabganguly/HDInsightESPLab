@@ -162,14 +162,20 @@ New-SelfSignedCertificate -Subject contoso.com `
     
     ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture21.png)
   
-  3. Assign an o
+  3. Assign an owner to the HDInsight Managed Services identity and subsequently assign the *HDInsight Domain Services Contributor* role to the newly created managed services identity MGI1. 
+  
+  ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture22.png)
+  
+  
+
+
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNjQ1Njc4LC0xNzA3MDE4OTYsLTEwNz
-YyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0NjE3
-LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwxND
-A5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC0xMDYzMzg3
-NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1MTYzMjM1NS
-wtODQxNjIwNTgxLDE5NTI5NDQ5NjMsNTg3NTE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTczMjc5Mzk3OSwtMTcwNzAxODk2LC0xMD
+c2MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYx
+Nyw3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMT
+QwOTkwMjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4
+NzQ4MCwxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNT
+UsLTg0MTYyMDU4MSwxOTUyOTQ0OTYzLDU4NzUxNDMzXX0=
 -->
