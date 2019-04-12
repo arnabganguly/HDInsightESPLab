@@ -237,15 +237,17 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 5. Leave the *Applications* Blade to default with no applications selected.
 
-7. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
+6. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
 
-8. Leave the *Script Actions* blade to default with no script actions.  
+7. Leave the *Script Actions* blade to default with no script actions.  
+
+9. In the *Cluster Summary* Page click *Create* to start HDInsight cluster deployment. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY4ODIyMTQsLTEwMzAwNDExNjksLT
-Q5MjQzOTk5MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUy
-MjAzOSwtMTM4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxOD
-IsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEw
-NzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0Nj
-E3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0MzQzMSwx
-NDA5OTAyODAwXX0=
+eyJoaXN0b3J5IjpbMjA4NjY1OTEyLC0xMDMwMDQxMTY5LC00OT
+I0Mzk5OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIw
+MzksLTEzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLD
+E5ODY0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2
+MjY3OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNy
+w3MDgyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQw
+OTkwMjgwMF19
 -->
