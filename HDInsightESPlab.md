@@ -1,6 +1,6 @@
 ## Create an ESP enabled HDInsight cluster
 
-### 1: Set up Azure Active Directory Domain Services 
+### 1: Set up Azure Active Directory Domain Services(AAD-DS) 
 
 #### [1.1 Configure Basic Settings](#11-configure-basic-settings)
 #### [1.2 Configure network settings](#12-configure-network-settings-1)
@@ -256,11 +256,11 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTYyMjI2LDE2NDMxOTcxMjUsNjg5OD
-kyODQwLC0yNjk0NzI1OTYsLTEwMzAwNDExNjksLTQ5MjQzOTk5
-MSwtMTkyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUyMjAzOSwtMT
-M4MDc5NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQy
-NjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OS
-w0MjcwMjUwOTQsLTQwODcyOTcxNywxNTk4MDA0NjE3LDcwODIw
-NDA3Nl19
+eyJoaXN0b3J5IjpbMTc1ODA5ODAxMSwxNjQzMTk3MTI1LDY4OT
+g5Mjg0MCwtMjY5NDcyNTk2LC0xMDMwMDQxMTY5LC00OTI0Mzk5
+OTEsLTE5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIwMzksLT
+EzODA3OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5ODY0
+MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3OT
+ksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MDgy
+MDQwNzZdfQ==
 -->
