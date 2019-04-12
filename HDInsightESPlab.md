@@ -191,7 +191,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
     
     ![Networking4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture27.png)
 
-
+## 2 Create HDInsight cluster with Enterpri 
 
 ### 2.0 Create ESP enabled HDInsight cluster
 1. Search HDInsight from central search field in the Azure Portal and then click *Create*. More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
@@ -253,11 +253,11 @@ Please refer to links below to launch Ranger.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTQ3MjU5NiwtMTAzMDA0MTE2OSwtND
-kyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4MDU4MTUsMzUxNTIy
-MDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4NDgsMTMwMDU4OTE4Mi
-wxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3MDcwMTg5NiwtMTA3
-NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MT
-csNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0
-MDk5MDI4MDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA3MTA1MjUsLTI2OTQ3MjU5NiwtMT
+AzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4
+MDU4MTUsMzUxNTIyMDM5LC0xMzgwNzk1NDkwLDEzNTkxNjk4ND
+gsMTMwMDU4OTE4MiwxOTg2NDI2NDE2LDExMzY2ODI3MTYsLTE3
+MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5NCwtNDA4NzI5Nz
+E3LDE1OTgwMDQ2MTcsNzA4MjA0MDc2LC0xMDQwNDA4NjQ2LC0x
+NTk4MzQzNDMxXX0=
 -->
