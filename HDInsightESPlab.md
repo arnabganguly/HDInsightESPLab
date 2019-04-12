@@ -172,14 +172,17 @@ New-SelfSignedCertificate -Subject contoso.com `
 
 ### 1.9 Networking 
   
+After the AD-DS service is created a DNS server is created on the AD VM. the AD-DS virtual network must be changed to point to these DNS servers. 
 
-
+![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture24.png)
+  
+  
 
 
 ### 1.8 Create ESP enabled HDInsight cluster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjA3NDYwNSwxOTg2NDI2NDE2LDExMz
+eyJoaXN0b3J5IjpbLTI4OTQ4NDMwOCwxOTg2NDI2NDE2LDExMz
 Y2ODI3MTYsLTE3MDcwMTg5NiwtMTA3NjI2Nzk5LDQyNzAyNTA5
 NCwtNDA4NzI5NzE3LDE1OTgwMDQ2MTcsNzA4MjA0MDc2LC0xMD
 QwNDA4NjQ2LC0xNTk4MzQzNDMxLDE0MDk5MDI4MDAsMTU2NjE5
