@@ -202,7 +202,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 ![ManagedIdentity2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
   
     
-2. In the security and Networking blade choose enabled and the populate the below fields. 
+2. In the security and Networking blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier. and the populate the below fields. 
  - *Cluster Admin*: Select the Cluster admin user from the users available
    in Azure.
  
@@ -213,11 +213,11 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5OD
-Y0MjY0MTYsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3
-OTksNDI3MDI1MDk0LC00MDg3Mjk3MTcsMTU5ODAwNDYxNyw3MD
-gyMDQwNzYsLTEwNDA0MDg2NDYsLTE1OTgzNDM0MzEsMTQwOTkw
-MjgwMCwxNTY2MTk1OTQsMTkyMTUzNTQ0MywtMTA2MzM4NzQ4MC
-wxMDY1NTYwNzU5LC0xNzk0MDEzOTAzLDE3NTE2MzIzNTUsLTg0
-MTYyMDU4MV19
+eyJoaXN0b3J5IjpbMTMzNzA4ODM0MiwxMzU5MTY5ODQ4LDEzMD
+A1ODkxODIsMTk4NjQyNjQxNiwxMTM2NjgyNzE2LC0xNzA3MDE4
+OTYsLTEwNzYyNjc5OSw0MjcwMjUwOTQsLTQwODcyOTcxNywxNT
+k4MDA0NjE3LDcwODIwNDA3NiwtMTA0MDQwODY0NiwtMTU5ODM0
+MzQzMSwxNDA5OTAyODAwLDE1NjYxOTU5NCwxOTIxNTM1NDQzLC
+0xMDYzMzg3NDgwLDEwNjU1NjA3NTksLTE3OTQwMTM5MDMsMTc1
+MTYzMjM1NV19
 -->
