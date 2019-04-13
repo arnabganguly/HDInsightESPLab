@@ -6,10 +6,12 @@
    https://<clustername>.azurehdinsight.net/ranger/
 ````
 
-2. Log into Ranger and goto the 
+![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture36.png)
+
+2. Log into Ranger with the below username and password 
+ 
   
-  ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyMzUyODcsMTUyNjkxODkzNywxMD
-k1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTcyMTE2NzI4MCwxNTI2OTE4OTM3LDEwOT
+U5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
