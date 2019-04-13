@@ -62,7 +62,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
   
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture44.png) 
 
- 5. Populate the below fields in the Ranger Policy page.
+ 5. Populate the below fields in the Ranger Policy page and 
 
  - Policy Name: *Name of the Policy*
  - Hbase Table: *Customers* 
@@ -70,14 +70,14 @@ put 'Customers','1002','Contact:ZipCode','98008'
  - HBase Column: *
  - Audit Logging: *yes*
  - Select Group:
- - Select User: 
+ - Select User: *hbaserestricted@xxxxxx.onmicrosoft.com*
  - Permissions: *Read* 
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNjI0MTgsOTI4NjA5ODQsLTE3ODIwNT
-M3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAzMDEw
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzM1NDY0OTczLDkyODYwOTg0LC0xNzgyMD
+UzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAx
+MCwtMjA4ODc0NjYxMl19
 -->
