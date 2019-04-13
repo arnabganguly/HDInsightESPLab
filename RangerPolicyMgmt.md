@@ -8,14 +8,14 @@
 
 ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture36.png)
 
- 2. Log into Ranger with the below username and password 
-     
+ 2. Log into Ranger with the below username and password and click on 
+ ````    
  - Username: hdinsightadmin@xxxxxx.onmicrosoft.com
- - Password:
-
+ - Password: <Password you set in section 1.5>
+````
  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTY1ODM4MCwxNTI2OTE4OTM3LDEwOT
+eyJoaXN0b3J5IjpbLTM5ODU5NDAyNCwxNTI2OTE4OTM3LDEwOT
 U5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
