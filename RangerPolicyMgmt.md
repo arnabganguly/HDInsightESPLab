@@ -19,7 +19,19 @@ create 'Employees', 'Name', 'Contact'
 ```
 4. Add some data to the *Customer* table 
 ```
-put 'Customers','1001','Name:First','Alice' put 'Customers','1001','Name:Last','Johnson' put 'Customers','1001','Contact:Phone','333-333-3333' put 'Customers','1001','Contact:Address','313 133rd Place' put 'Customers','1001','Contact:City','Redmond' put 'Customers','1001','Contact:State','WA' put 'Customers','1001','Contact:ZipCode','98052' put 'Customers','1002','Name:First','Robert' put 'Customers','1002','Name:Last','Stevens' put 'Customers','1002','Contact:Phone','777-777-7777' put 'Customers','1002','Contact:Address','717 177th Ave' put 'Customers','1002','Contact:City','Bellevue' put 'Customers','1002','Contact:State','WA' put 'Customers','1002','Contact:ZipCode','98008'
+put 'Customers','1001','Name:First','Alice' 
+put 'Customers','1001','Name:Last','Johnson' 
+put 'Customers','1001','Contact:Phone','333-333-3333'
+put 'Customers','1001','Contact:Address','313 133rd Place' 
+put 'Customers','1001','Contact:City','Redmond' 
+put 'Customers','1001','Contact:State','WA' 
+put 'Customers','1001','Contact:ZipCode','98052' 
+put 'Customers','1002','Name:First','Robert' 
+put 'Customers','1002','Name:Last','Stevens' 
+put 'Customers','1002','Contact:Phone','777-777-7777' 
+put 'Customers','1002','Contact:Address','717 177th Ave' put 'Customers','1002','Contact:City','Bellevue' 
+put 'Customers','1002','Contact:State','WA' 
+put 'Customers','1002','Contact:ZipCode','98008'
 ```
 
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
@@ -51,7 +63,7 @@ put 'Customers','1001','Name:First','Alice' put 'Customers','1001','Name:Last','
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODY1MjA5OCwtMTc4MjA1MzcwMCwtMT
+eyJoaXN0b3J5IjpbLTY3NjI1NDY4MiwtMTc4MjA1MzcwMCwtMT
 A3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3
 NDY2MTJdfQ==
 -->
