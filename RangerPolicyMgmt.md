@@ -35,7 +35,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
 ```
 
 
-## 2.0 Create and test Apache Ranger policies on ESP enabled HDInsight clusters
+## 2.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
 
@@ -77,6 +77,9 @@ put 'Customers','1002','Contact:ZipCode','98008'
   
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture47.png)
 
+
+## 3.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
+
 6. SSH into the cluster using the below credentials 
 
 ````
@@ -85,9 +88,11 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 >**Note:**
 > 
->If you are already logged i
+>If you are already logged in you could use *kinit* to switch between cluster users.
+
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzcwNzkxNSw5Mjg2MDk4NCwtMTc4Mj
-A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
-MTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODcxNDgzODEsOTI4NjA5ODQsLTE3OD
+IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
+MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
