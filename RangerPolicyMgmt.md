@@ -69,13 +69,15 @@ put 'Customers','1002','Contact:ZipCode','98008'
  - HBase Column Family: *Contact*
  - HBase Column: *
  - Audit Logging: *yes*
- - 
+ - Select Group:
+ - Select User: 
+ - Permissions: *Read* 
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDI0MzM3Miw5Mjg2MDk4NCwtMTc4Mj
-A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
-MTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTIxNjI0MTgsOTI4NjA5ODQsLTE3ODIwNT
+M3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAzMDEw
+LC0yMDg4NzQ2NjEyXX0=
 -->
