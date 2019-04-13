@@ -14,12 +14,14 @@
  - Password: <Password you set in section 1.5>
 ````
  
-  3. Click on the Settings icon on the header to see the list of users and groups. You should see the users and groups you selected in step 2 of section 2.1.
+  3. Click on the Settings icon on the header to see the list of users and groups. Explore if the users and  groups selected step 2 of section 2.1 have made it to Ranger.
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture37.png) 
 
+
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture38.png)
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODEwMjY0OCwxNTI2OTE4OTM3LDEwOT
+eyJoaXN0b3J5IjpbLTU0NTMyMTUwNiwxNTI2OTE4OTM3LDEwOT
 U5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
