@@ -6,8 +6,8 @@
    https://<clustername>.azurehdinsight.net/ranger/
 ````
 
-2. After logging into the cluster the see the 
+2. Log into Ranger and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI2MjQ2NTYsMTA5NTkwMzAxMCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMD
+g4NzQ2NjEyXX0=
 -->
