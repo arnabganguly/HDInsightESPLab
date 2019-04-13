@@ -76,9 +76,18 @@ put 'Customers','1002','Contact:ZipCode','98008'
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture47.png)
-6. 
+
+6. SSH into the cluster using the below credentials 
+
+````
+ ssh hbaserestricted@<clustername>-ssh.azurehdinsight.com
+````
+
+>**Note:**
+> 
+>If you are already logged i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjUwODc4OSw5Mjg2MDk4NCwtMTc4Mj
+eyJoaXN0b3J5IjpbMTU5NzcwNzkxNSw5Mjg2MDk4NCwtMTc4Mj
 A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
 MTAsLTIwODg3NDY2MTJdfQ==
 -->
