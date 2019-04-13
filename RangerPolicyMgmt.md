@@ -6,8 +6,8 @@
    https://<clustername>.azurehdinsight.net/ranger/
 ````
 
-2. After logging t
+2. After logging into the cluster the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODMzODc0OCwxMDk1OTAzMDEwLC0yMD
+eyJoaXN0b3J5IjpbMTg4NTc4Mjc2NCwxMDk1OTAzMDEwLC0yMD
 g4NzQ2NjEyXX0=
 -->
