@@ -1,7 +1,9 @@
 ## Create HBase Table and add data to the  table
 
 1. SSH into the HDInsight cluster using 
-
+ ````
+ ssh hdinsightclusteradmin@<clustername>-ssh.azurehdinsight.com
+````
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -31,6 +33,6 @@
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NTE2NjU3LC0xMDc3NDUwNjU4LDE1Mj
-Y5MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjEwOTYzODQyMiwtMTA3NzQ1MDY1OCwxNT
+I2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
