@@ -4,6 +4,9 @@
  ````
  ssh hdinsightclusteradmin@<clustername>-ssh.azurehdinsight.com
 ````
+>**Note:**
+> 
+>Note that Instead of using sshuser we have instead used the clusteradmin with domain credentials.
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -33,6 +36,6 @@
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTYzODQyMiwtMTA3NzQ1MDY1OCwxNT
+eyJoaXN0b3J5IjpbMTE4MTk4NDQzNiwtMTA3NzQ1MDY1OCwxNT
 I2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
