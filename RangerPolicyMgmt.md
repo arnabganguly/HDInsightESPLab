@@ -45,13 +45,13 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture36.png)
 
- 2. Log into Ranger with the below username and password 
+ 2. Log onto Ranger with the below username and password 
  ````    
  - Username: hdinsightadmin@xxxxxx.onmicrosoft.com
  - Password: <Password you set in section 1.5>
 ````
  
-  3. Click on the Settings icon on the header to see the list of users and groups. Explore if the users and  groups selected step 2 of section 2.1 have made it to Ranger.
+  3. Click on the Settings icon on the header to see the list of users and groups. Explore if the users and groups that were selected from Azure Active Directory in step 2 of section 2.1 have made it to Ranger.
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture38.png) 
 
@@ -126,7 +126,7 @@ This concludes the HDInsight ESP lab . In this Lab we set up Azure
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTAxODYyMywtMzI1NDU1NDcwLDkyOD
+eyJoaXN0b3J5IjpbLTk4NTY2NjI0MiwtMzI1NDU1NDcwLDkyOD
 YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
 MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
