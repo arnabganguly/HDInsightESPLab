@@ -118,12 +118,15 @@ scan 'Customers'
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture49.png)
 
+12. F 
  
 This concludes the HDInsight ESP lab . In this Lab we set up Azure 
 
- - Active Directory Domain Services 
+ - Active Directory Domain Services
+ - Set up an HDInsight cluster with Enterprise Security Package enabled
+ - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTAyNDE3NCwtMzI1NDU1NDcwLDkyOD
-YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
-MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MTAzNTc1MDUsLTMyNTQ1NTQ3MCw5Mj
+g2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4
+OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
