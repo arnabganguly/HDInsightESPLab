@@ -1,7 +1,9 @@
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. After the HDInsight cluster has been succesfully created l
+1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal is at the below URL. 
+
+https://<clustername>./ranger/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NDA3NDQ1LDEwOTU5MDMwMTAsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTI2NTQwNTkzOSwxMDk1OTAzMDEwLC0yMD
+g4NzQ2NjEyXX0=
 -->
