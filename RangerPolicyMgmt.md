@@ -100,11 +100,17 @@ scan 'Customers'
 
 8. Notice all Column families of the 'Customers' table can be read.
 
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture50.png)
 
+9. Switch the user to *hbaserestricted*
 ```
- ssh hbaserestricted@<clustername>-ssh.azurehdinsight.com````
+ kinit hbaserestricted
+ ```
+
+10.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE0ODM3NDgsOTI4NjA5ODQsLTE3OD
-IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
-MDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NTk5MTIxNyw5Mjg2MDk4NCwtMTc4Mj
+A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
+MTAsLTIwODg3NDY2MTJdfQ==
 -->
