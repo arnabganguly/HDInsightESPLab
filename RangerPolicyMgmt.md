@@ -17,6 +17,9 @@ hbase shell
 ```
 create 'Employees', 'Name', 'Contact' 
 ```
+4. Add some data to the *Customer* table 
+
+
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -46,6 +49,7 @@ create 'Employees', 'Name', 'Contact'
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIwNTM3MDAsLTEwNzc0NTA2NTgsMT
-UyNjkxODkzNywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAzMzA5OTkwOSwtMTc4MjA1MzcwMCwtMT
+A3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3
+NDY2MTJdfQ==
 -->
