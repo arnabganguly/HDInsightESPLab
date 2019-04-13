@@ -1,4 +1,4 @@
-## 1.0 Create HBase Table and add data to the  table
+## 1.0 Create HBase table and add data to the table
 
 1. SSH into the HDInsight cluster using 
  ````
@@ -15,7 +15,8 @@ hbase shell
 3. At the HBase shell prompt create a table *Customers*.
 
 ```
-create 'Employees', 'Name', 'Contact' 
+create '```
+Custome', 'Name', 'Contact' 
 ```
 4. Add some data to the *Customer* table 
 ```
@@ -126,7 +127,7 @@ This concludes the HDInsight ESP lab . In this Lab we set up Azure
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjkyMzY3LC0zMjU0NTU0NzAsOTI4Nj
-A5ODQsLTE3ODIwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkz
-NywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzNzEzNzEzNiwtMzI1NDU1NDcwLDkyOD
+YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
+MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
