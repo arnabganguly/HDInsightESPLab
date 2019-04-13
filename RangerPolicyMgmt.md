@@ -127,12 +127,12 @@ This concludes the HDInsight ESP lab . In this Lab we explored
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 
 >**Further reference:**
-> [Azure HDInsight Documentation](https://docs.microsoft.com/en-us/azure/hdinsight/)
-> 
+> [Azure HDInsight Documentation](https://docs.microsoft.com/en-us/azure/hdinsight/) 
 >[Enterprise Security Package for HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-introduction)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODQ5MTkzLC0zMjU0NTU0NzAsOTI4Nj
-A5ODQsLTE3ODIwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkz
-NywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIxMjcyNzk4MDUsOTU4ODQ5MTkzLC0zMj
+U0NTU0NzAsOTI4NjA5ODQsLTE3ODIwNTM3MDAsLTEwNzc0NTA2
+NTgsMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX
+0=
 -->
