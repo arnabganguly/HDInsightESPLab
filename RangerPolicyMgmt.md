@@ -62,7 +62,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
   
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture44.png) 
 
- 5. Populate the below fields in the Ranger Policy page and 
+ 5. Populate the below fields in the Ranger Policy page and click *Save*
 
  - Policy Name: *Name of the Policy*
  - Hbase Table: *Customers* 
@@ -75,9 +75,10 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
-
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture47.png)
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NDY0OTczLDkyODYwOTg0LC0xNzgyMD
-UzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAx
-MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTEyNjUwODc4OSw5Mjg2MDk4NCwtMTc4Mj
+A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
+MTAsLTIwODg3NDY2MTJdfQ==
 -->
