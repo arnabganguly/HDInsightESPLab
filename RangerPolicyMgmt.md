@@ -6,7 +6,7 @@
 ````
 >**Note:**
 > 
->Instead of using *sshuser* we have instead used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
+>Instead of using *sshuser* we could also used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
 
 2. Launch the HBase shell.
 ```
@@ -98,10 +98,13 @@ hbase shell
 scan 'Customers'
 ````
 
+8. Notice all Column families of the 'Customers' table can be read.
+
+
 ```
  ssh hbaserestricted@<clustername>-ssh.azurehdinsight.com````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODM4MjcwNyw5Mjg2MDk4NCwtMTc4Mj
-A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
-MTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDE0ODM3NDgsOTI4NjA5ODQsLTE3OD
+IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
+MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
