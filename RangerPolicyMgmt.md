@@ -2,8 +2,9 @@
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal is at the below URL. 
 
-https://<clustername>./ranger/
+   <https://<clustername>.azurehdinsight.net/ranger/>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTQwNTkzOSwxMDk1OTAzMDEwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MjQzNzA1NDUsMTA5NTkwMzAxMCwtMj
+A4ODc0NjYxMl19
 -->
