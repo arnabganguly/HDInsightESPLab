@@ -78,7 +78,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture47.png)
 
 
-## 3.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
+## 3.0 Test Apache Ranger policies on ESP enabled HDInsight clusters
 
 6. SSH into the cluster using the below credentials 
 
@@ -88,11 +88,16 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 >**Note:**
 > 
->If you are already logged in you could use *kinit* to switch between cluster users.
+>If you are already logged in, you could use *kinit* to switch between cluster users.
 
-7. 
+7. Start the Hbase shell and scan the *Customers* table
+
+```
+hbase shell
+scan 'Customers'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcxNDgzODEsOTI4NjA5ODQsLTE3OD
+eyJoaXN0b3J5IjpbLTE3NDc2NjE4MzQsOTI4NjA5ODQsLTE3OD
 IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
 MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
