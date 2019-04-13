@@ -66,13 +66,16 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
  - Policy Name: *Name of the Policy*
  - Hbase Table: *Customers* 
- - HBase Column Family: 
+ - HBase Column Family: *Contact*
+ - HBase Column: *
+ - Audit Logging: *yes*
+ - 
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDIyNjQxMSw5Mjg2MDk4NCwtMTc4Mj
+eyJoaXN0b3J5IjpbMjA4NDI0MzM3Miw5Mjg2MDk4NCwtMTc4Mj
 A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
 MTAsLTIwODg3NDY2MTJdfQ==
 -->
