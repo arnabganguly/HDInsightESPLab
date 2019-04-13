@@ -98,7 +98,7 @@ hbase shell
 scan 'Customers'
 ````
 
-8. Notice all Column families of the 'Customers' table can be read.
+8. Notice all columns of the Column families of the 'Customers' table can be read.
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture50.png)
 
@@ -107,10 +107,18 @@ scan 'Customers'
  kinit hbaserestricted
  ```
 
-10.
+10. 7. Start the Hbase shell and scan the *Customers* table
+
+```
+hbase shell
+scan 'Customers'
+```
+
+11. Notice that only the 'Contact' colum of the column families can be read 
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk5MTIxNyw5Mjg2MDk4NCwtMTc4Mj
+eyJoaXN0b3J5IjpbLTgwNTEyOTkwMSw5Mjg2MDk4NCwtMTc4Mj
 A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
 MTAsLTIwODg3NDY2MTJdfQ==
 -->
