@@ -2,7 +2,7 @@
 
 1. SSH into the HDInsight cluster using 
  ````
- ssh hdinsightclusteradmin@<clustername>-ssh.azurehdinsight.com
+ ssh sshuser@<clustername>-ssh.azurehdinsight.com
 ````
 >**Note:**
 > 
@@ -83,8 +83,9 @@ put 'Customers','1002','Contact:ZipCode','98008'
 6. SSH into the cluster using the below credentials 
 
 ````
- ssh hbaserestricted@<clustername>-ssh.azurehdinsight.com
+ ssh hdinsightclusteradmin@<clustername>-ssh.azurehdinsight.com
 ````
+
 
 >**Note:**
 > 
@@ -95,9 +96,12 @@ put 'Customers','1002','Contact:ZipCode','98008'
 ```
 hbase shell
 scan 'Customers'
+````
+
 ```
+ ssh hbaserestricted@<clustername>-ssh.azurehdinsight.com````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc2NjE4MzQsOTI4NjA5ODQsLTE3OD
-IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
-MDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTM1ODM4MjcwNyw5Mjg2MDk4NCwtMTc4Mj
+A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
+MTAsLTIwODg3NDY2MTJdfQ==
 -->
