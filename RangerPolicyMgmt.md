@@ -37,7 +37,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 ## 2.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
+1. The ranger portal can be accessed at the below URL. 
 
 ````
    https://<clustername>.azurehdinsight.net/ranger/
@@ -126,7 +126,7 @@ This concludes the HDInsight ESP lab . In this Lab we set up Azure
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI0MTE3ODUsLTMyNTQ1NTQ3MCw5Mj
-g2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4
-OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTM1MTAxODYyMywtMzI1NDU1NDcwLDkyOD
+YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
+MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
