@@ -6,7 +6,7 @@
 ````
 >**Note:**
 > 
->Note that instead of using *sshuser* we have instead used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
+>Instead of using *sshuser* we have instead used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -36,6 +36,6 @@
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODk4Mjg5MSwtMTA3NzQ1MDY1OCwxNT
+eyJoaXN0b3J5IjpbMTU5MDkwOTI0OCwtMTA3NzQ1MDY1OCwxNT
 I2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
