@@ -128,10 +128,11 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >**Further reference:**
 > [Azure HDInsight Documentation](https://docs.microsoft.com/en-us/azure/hdinsight/)
+> 
 >[Enterprise Security Package for HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-introduction)
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjM0NDg0MywtMzI1NDU1NDcwLDkyOD
-YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
-MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTU4ODQ5MTkzLC0zMjU0NTU0NzAsOTI4Nj
+A5ODQsLTE3ODIwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkz
+NywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
 -->
