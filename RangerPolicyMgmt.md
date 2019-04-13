@@ -15,8 +15,7 @@ hbase shell
 3. At the HBase shell prompt create a table *Customers*.
 
 ```
-create '```
-Custome', 'Name', 'Contact' 
+create 'Customers', 'Name', 'Contact' 
 ```
 4. Add some data to the *Customer* table 
 ```
@@ -127,7 +126,7 @@ This concludes the HDInsight ESP lab . In this Lab we set up Azure
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzNzEzNiwtMzI1NDU1NDcwLDkyOD
-YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
-MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEwODI0MTE3ODUsLTMyNTQ1NTQ3MCw5Mj
+g2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4
+OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
