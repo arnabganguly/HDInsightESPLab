@@ -16,12 +16,17 @@
  
   3. Click on the Settings icon on the header to see the list of users and groups. Explore if the users and  groups selected step 2 of section 2.1 have made it to Ranger.
 
-![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture37.png) 
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture38.png) 
 
 
-![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture38.png)
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture39.png)
+
+
+
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture40.png)
+
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTMyMTUwNiwxNTI2OTE4OTM3LDEwOT
-U5MDMwMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMD
+k1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
 -->
