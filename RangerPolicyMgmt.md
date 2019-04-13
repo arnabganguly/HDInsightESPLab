@@ -61,10 +61,13 @@ put 'Customers','1002','Contact:ZipCode','98008'
 4. Click on the Ranger Service in the HBase section and click *Add New Policy*
   
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture44.png) 
+
+5. Populate the below fields in the Ranger Policy page ,
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
   
-  5. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzEzNjk1Miw5Mjg2MDk4NCwtMTc4Mj
-A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
-MTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDkwOTQxMjcsOTI4NjA5ODQsLTE3OD
+IwNTM3MDAsLTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAz
+MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
