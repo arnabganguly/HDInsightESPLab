@@ -107,7 +107,7 @@ scan 'Customers'
  kinit hbaserestricted
  ```
 
-10. 7. Start the Hbase shell and scan the *Customers* table.
+10. Start the Hbase shell and scan the *Customers* table.
 
 ```
 hbase shell
@@ -120,13 +120,15 @@ scan 'Customers'
 
 12. Apache Ranger on HDinsight can also be used to configure user authorization policies for [Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-kafka) and [Hive](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-hive).  
  
-This concludes the HDInsight ESP lab . In this Lab we set up Azure 
+This concludes the HDInsight ESP lab . In this Lab we explored 
 
  - Active Directory Domain Services
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTY2NjI0MiwtMzI1NDU1NDcwLDkyOD
-YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
-MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4ODM4OTc2NzAsLTMyNTQ1NTQ3MCw5Mj
+g2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4
+OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
