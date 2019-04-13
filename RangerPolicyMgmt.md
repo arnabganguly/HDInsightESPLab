@@ -119,9 +119,11 @@ scan 'Customers'
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture49.png)
 
  
- This concludes the HDInsight ESP lab . In this Lap 
+This concludes the HDInsight ESP lab . In this Lab we set up Azure 
+
+ - Active Directory Domain Services 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQ1NTQ3MCw5Mjg2MDk4NCwtMTc4Mj
-A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
-MTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTM2OTAyNDE3NCwtMzI1NDU1NDcwLDkyOD
+YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
+MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
