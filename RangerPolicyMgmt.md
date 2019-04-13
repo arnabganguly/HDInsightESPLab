@@ -34,6 +34,7 @@ put 'Customers','1002','Contact:State','WA'
 put 'Customers','1002','Contact:ZipCode','98008'
 ```
 
+
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -63,7 +64,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjI1NDY4MiwtMTc4MjA1MzcwMCwtMT
-A3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTI4NjA5ODQsLTE3ODIwNTM3MDAsLTEwNz
+c0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMDg4NzQ2
+NjEyXX0=
 -->
