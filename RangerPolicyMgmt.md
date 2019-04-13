@@ -8,12 +8,15 @@
 > 
 >Instead of using *sshuser* we have instead used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
 
-2. Launch the HBase shell
+2. Launch the HBase shell.
 ```
 hbase shell
 ```
-3. At the HBase shell prompt create a table 'Customees
+3. At the HBase shell prompt create a table *Customers*.
 
+```
+create 'Employees', 'Name', 'Contact' 
+```
 ## Create and test Apache Ranger policies on ESP enabled HDInsight clusters
 
 1. After the HDInsight cluster has been successfully created log into the Ranger portal. The ranger portal can be accessed at the below URL. 
@@ -43,6 +46,6 @@ hbase shell
 
 4. Click on the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI4ODg0ODIsLTEwNzc0NTA2NTgsMT
+eyJoaXN0b3J5IjpbLTE3ODIwNTM3MDAsLTEwNzc0NTA2NTgsMT
 UyNjkxODkzNywxMDk1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
 -->
