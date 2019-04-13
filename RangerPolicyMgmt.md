@@ -6,8 +6,10 @@
    https://<clustername>.azurehdinsight.net/ranger/
 ````
 
-2. Log into Ranger and 
+2. Log into Ranger and goto the 
+  
+  ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture34.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MzkyMzUyODcsMTUyNjkxODkzNywxMD
+k1OTAzMDEwLC0yMDg4NzQ2NjEyXX0=
 -->
