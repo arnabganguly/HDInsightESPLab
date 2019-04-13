@@ -118,7 +118,7 @@ scan 'Customers'
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture49.png)
 
-12. F 
+12. Apache Ranger on HDinsight can also be used to configure user authorization for [Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-kafka) and [Hive](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-hive).  
  
 This concludes the HDInsight ESP lab . In this Lab we set up Azure 
 
@@ -126,7 +126,7 @@ This concludes the HDInsight ESP lab . In this Lab we set up Azure
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAzNTc1MDUsLTMyNTQ1NTQ3MCw5Mj
-g2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4
-OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTk3NTkzMjk0MywtMzI1NDU1NDcwLDkyOD
+YwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5
+MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
