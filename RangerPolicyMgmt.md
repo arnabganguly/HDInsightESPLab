@@ -8,14 +8,14 @@
 
 ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture36.png)
 
- 2. Log into Ranger with the below username and password and click on 
+ 2. Log into Ranger with the below username and password 
  ````    
  - Username: hdinsightadmin@xxxxxx.onmicrosoft.com
  - Password: <Password you set in section 1.5>
 ````
  
-  
+  3. Click on the Settings icon on the header to see the list of users and groups. You should see the users and groups you selected in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODU5NDAyNCwxNTI2OTE4OTM3LDEwOT
+eyJoaXN0b3J5IjpbLTEwODExNjIyMSwxNTI2OTE4OTM3LDEwOT
 U5MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
