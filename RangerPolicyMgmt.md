@@ -114,13 +114,13 @@ hbase shell
 scan 'Customers'
 ```
 
-11. Notice that only the 'Contact' column of the column families can be read.
+11. Notice that only the 'Contact' column of the column families can be read based on the specified Ranger policies. 
 
  ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture49.png)
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjc4NDQ4Miw5Mjg2MDk4NCwtMTc4Mj
+eyJoaXN0b3J5IjpbMTIwNTA1NjU2Niw5Mjg2MDk4NCwtMTc4Mj
 A1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMw
 MTAsLTIwODg3NDY2MTJdfQ==
 -->
