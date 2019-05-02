@@ -85,7 +85,9 @@ Log into the Azure Active directory and create the following users and groups. T
 | KafkaControlledAccess  | Kafka Restricted User   | kafkarestricted@xxxxxx.onmicrosoft.com |
 | SparkControlledAccess  | Spark Restricted User   | sparkrestricted@xxxxxx.onmicrosoft.com |
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
-  
+    
+    For bulk user creation use the below code.
+    
      
 HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided.   
 
@@ -259,11 +261,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzIzMjU1LDE3NTA4NzY2OTgsMTc1OD
-A5ODAxMSwxNjQzMTk3MTI1LDY4OTg5Mjg0MCwtMjY5NDcyNTk2
-LC0xMDMwMDQxMTY5LC00OTI0Mzk5OTEsLTE5MjM4MjI2MjMsMT
-EzNTgwNTgxNSwzNTE1MjIwMzksLTEzODA3OTU0OTAsMTM1OTE2
-OTg0OCwxMzAwNTg5MTgyLDE5ODY0MjY0MTYsMTEzNjY4MjcxNi
-wtMTcwNzAxODk2LC0xMDc2MjY3OTksNDI3MDI1MDk0LC00MDg3
-Mjk3MTddfQ==
+eyJoaXN0b3J5IjpbLTIwMjAxNTQ2ODYsMjAyMzIzMjU1LDE3NT
+A4NzY2OTgsMTc1ODA5ODAxMSwxNjQzMTk3MTI1LDY4OTg5Mjg0
+MCwtMjY5NDcyNTk2LC0xMDMwMDQxMTY5LC00OTI0Mzk5OTEsLT
+E5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIwMzksLTEzODA3
+OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5ODY0MjY0MT
+YsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3OTksNDI3
+MDI1MDk0XX0=
 -->
