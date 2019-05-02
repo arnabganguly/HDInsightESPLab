@@ -86,8 +86,11 @@ Log into the Azure Active directory and create the following users and groups. T
 | SparkControlledAccess  | Spark Restricted User   | sparkrestricted@xxxxxx.onmicrosoft.com |
 | HbaseControlledAccess  | Hbase Restricted User   | hbaserestricted@xxxxxx.onmicrosoft.com |
     
-    For bulk user creation use the below code.
-    
+For bulk user creation you could use the below code with Azure CLI.   
+
+    $ for i in {1..20}; 
+    do az ad user create --display-name "ESP Bang Lab User"$i --password Esppass$i@ESP --user-principal-name espbuser$i@HDIESP.onmicrosoft.com;
+    done
      
 HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided.   
 
@@ -261,11 +264,11 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAxNTQ2ODYsMjAyMzIzMjU1LDE3NT
-A4NzY2OTgsMTc1ODA5ODAxMSwxNjQzMTk3MTI1LDY4OTg5Mjg0
-MCwtMjY5NDcyNTk2LC0xMDMwMDQxMTY5LC00OTI0Mzk5OTEsLT
-E5MjM4MjI2MjMsMTEzNTgwNTgxNSwzNTE1MjIwMzksLTEzODA3
-OTU0OTAsMTM1OTE2OTg0OCwxMzAwNTg5MTgyLDE5ODY0MjY0MT
-YsMTEzNjY4MjcxNiwtMTcwNzAxODk2LC0xMDc2MjY3OTksNDI3
-MDI1MDk0XX0=
+eyJoaXN0b3J5IjpbMjA5NDQ4NzMwMCwyMDIzMjMyNTUsMTc1MD
+g3NjY5OCwxNzU4MDk4MDExLDE2NDMxOTcxMjUsNjg5ODkyODQw
+LC0yNjk0NzI1OTYsLTEwMzAwNDExNjksLTQ5MjQzOTk5MSwtMT
+kyMzgyMjYyMywxMTM1ODA1ODE1LDM1MTUyMjAzOSwtMTM4MDc5
+NTQ5MCwxMzU5MTY5ODQ4LDEzMDA1ODkxODIsMTk4NjQyNjQxNi
+wxMTM2NjgyNzE2LC0xNzA3MDE4OTYsLTEwNzYyNjc5OSw0Mjcw
+MjUwOTRdfQ==
 -->
