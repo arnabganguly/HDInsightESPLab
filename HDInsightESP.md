@@ -37,10 +37,9 @@ the group created for you*
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
  
-
- - In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
+ Populate the fields below.
     
-    ### Storage
+  ### Storage
 
  - **Primary storage type** : *Azure Data Lake Storage Gen 2*
  - **Select a storage account**: *Select the storage account in your resource group*
@@ -50,7 +49,10 @@ the group created for you*
 
  - **Subscription**: *Choose the subscription you are assigned to*
  - **User-assigned managed identity**: *Use the STORAGE Managed Identity provided to you*
- - 
+ 
+  ### Metastore
+  
+ - The metastore settings optional and in this lab we would the default metastore provided by HDInsight. 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -72,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTg4OTQzMSwxNDMwODUyNTAzLC0xND
+eyJoaXN0b3J5IjpbMTc2MTQ3Njk3OSwxNDMwODUyNTAzLC0xND
 U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
 MDY5Nl19
 -->
