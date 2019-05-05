@@ -1,13 +1,12 @@
 ## Create an ESP enabled HDInsight cluster
 
 
-1. 1. Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
+1. Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
 a. An ADLS Gen2 storage account.
 b. A Managed Identity for the Storage account.
 c. A managed identity for the Azure Active Directory Domain Services(AAD-DS). 
 
-
-
+2. Create a VNet 
 
 
 2. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
@@ -73,5 +72,5 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDI3OTgyNCwtMTY3NTYzMDY5Nl19
+eyJoaXN0b3J5IjpbLTkzODk1MzUwMSwtMTY3NTYzMDY5Nl19
 -->
