@@ -1,5 +1,15 @@
 ## Create an ESP enabled HDInsight cluster
-1. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+
+1. Log in with the user id and password provided to you. You should have access to one resource group with the below components precreated 
+a. A storage account.
+
+
+
+
+
+
+
+3. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
@@ -62,5 +72,5 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MjQyMjcwLC0xNjc1NjMwNjk2XX0=
+eyJoaXN0b3J5IjpbLTk3NTMwNTAxNywtMTY3NTYzMDY5Nl19
 -->
