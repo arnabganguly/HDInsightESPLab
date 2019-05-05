@@ -34,7 +34,7 @@ the group created for you
  - *Subnet*: Blank
  - *Identity*: Use the AAD-DS Managed Identity provided to you
 
-![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
+![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png) 
 
  ![HDICreate4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
 
@@ -66,6 +66,6 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2NzQ4NTcsLTE0NTk0OTQ5MzEsMT
-MzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMwNjk2XX0=
+eyJoaXN0b3J5IjpbMTQzMDg1MjUwMywtMTQ1OTQ5NDkzMSwxMz
+MyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2MzA2OTZdfQ==
 -->
