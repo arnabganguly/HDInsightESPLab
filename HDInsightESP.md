@@ -38,9 +38,9 @@ the group created for you
 
  
 
-4. In the Storage blade populate details of the storage account.
+4. In the **Storage** blade populate details of the storage account that was provided to you. 
 
-![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture33.png)
+![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
 5. Leave the *Applications* Blade to default with no applications selected.
 
@@ -60,7 +60,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzMzNzQ1OCwxNDMwODUyNTAzLC0xND
+eyJoaXN0b3J5IjpbMjAxMDEzNjcwOCwxNDMwODUyNTAzLC0xND
 U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
 MDY5Nl19
 -->
