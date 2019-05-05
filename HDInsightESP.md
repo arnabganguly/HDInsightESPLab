@@ -19,15 +19,15 @@
 > 
 >HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop ,Kafka and Spark as cluster types during creation.
   
-![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png)
+![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture55.png)
   
     
 2. In the *Security + networking* blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
  - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select 
- User: *HDInsight Administrator(hdinsightadmin@xxxxxx.onmicrosoft.com)*
+ user created for you
  
  - *Cluster access group*: Choose the Azure Active Directory group that would have access to the cluster. User's assigned to this group will inherit the role assigned to the group. For this lab select 
-Group: *HbaseControlledAccess*. Please note that this group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
+the group created for you 
 
  - *LDAPS URL* :   Leave it at default
  - *Virtual Network*: Select the VNet provided to you
@@ -66,6 +66,6 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk0OTQ5MzEsMTMzMjI3Njc1OSwtMz
-AxNzE5NjgzLC0xNjc1NjMwNjk2XX0=
+eyJoaXN0b3J5IjpbLTIwOTg2NzQ4NTcsLTE0NTk0OTQ5MzEsMT
+MzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMwNjk2XX0=
 -->
