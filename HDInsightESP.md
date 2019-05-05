@@ -1,18 +1,15 @@
 ## Create an ESP enabled HDInsight cluster
 
 
-1. Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
-a. An ADLS Gen2 storage account.
-b. A Managed Identity for the Storage account.
-c. A managed identity for the Azure Active Directory Domain Services(AAD-DS). 
-d. A VNet for you to inject your HDInsight cluster into. 
-
-
-2. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+ - Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
+ - An ADLS Gen2 storage account.
+ - A Managed Identity for the storage account.
+ - A managed identity for the Azure Active Directory    Domain Services(AAD-DS).  d. A VNet for you to inject your HDInsight cluster into.
+ - Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
    
    ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture28.png)
   
- 2. Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
+ - Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
 
 >**Note:**
 > 
@@ -65,5 +62,6 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTcxOTY4MywtMTY3NTYzMDY5Nl19
+eyJoaXN0b3J5IjpbMTMxNTM4MzY3MCwtMzAxNzE5NjgzLC0xNj
+c1NjMwNjk2XX0=
 -->
