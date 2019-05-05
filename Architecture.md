@@ -1,5 +1,5 @@
 
-## Architecture 
+## Architecture Discussion 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture56.png) 
 
@@ -7,13 +7,15 @@
 
 2. Azure AD Domain Services provides managed domain services such as domain join, group policy, LDAP, Kerberos/NTLM authentication that are fully compatible with Windows Server Active Directory.
 
-3. A cloud only Azure active directory does not have an on-premise identity footprint and all users , groups, group memberships and passwords are  all native to the cloud. 
+3. A cloud only Azure active directory does not have an on-premise identity footprint. All users , groups, group memberships and passwords are all native to the cloud. 
 
-4. During deployment Azure Active directory domain services deploys a managed domain within a VNet(ADDS VNet). Services  
+4. During deployment Azure Active directory domain services deploys a managed domain within a VNet(ADDS VNet). 
+
+5. HDinsight 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NTcxNDEyLDk2Nzg2NTAyOCwtMTc2Nz
-A0OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNzY5OF19
+eyJoaXN0b3J5IjpbLTE2OTU3MjY3MzYsOTY3ODY1MDI4LC0xNz
+Y3MDQ5MDM4LC0xODA1MTU3MzkwLC0xNzY2OTM3Njk4XX0=
 -->
