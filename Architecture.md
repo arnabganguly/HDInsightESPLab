@@ -4,7 +4,7 @@
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture56.png) 
 
 1. By default , the standard HDInsight cluster is a singe user cluster. 
-2. 
+2. To enable multi user access to HDInsight in conjunction with Azure Active Directory popular identity provider--Active Directory and enable users toau
 3. 
 The architecture depicts an [Azure Active directory domain services] synchronized with a (https://docs.microsoft.com/en-us/azure/active-directory-domain-services/)(AAD-DS) with a cloud only Azure Active directory tenant( AAD) . 
 
@@ -19,7 +19,7 @@ The architecture depicts an [Azure Active directory domain services] synchronize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg2NzU5OTMsLTE2OTU3MjY3MzYsOT
-Y3ODY1MDI4LC0xNzY3MDQ5MDM4LC0xODA1MTU3MzkwLC0xNzY2
-OTM3Njk4XX0=
+eyJoaXN0b3J5IjpbLTcxNjQxNTM1MywtMjA2ODY3NTk5MywtMT
+Y5NTcyNjczNiw5Njc4NjUwMjgsLTE3NjcwNDkwMzgsLTE4MDUx
+NTczOTAsLTE3NjY5Mzc2OThdfQ==
 -->
