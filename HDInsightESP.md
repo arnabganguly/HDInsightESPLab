@@ -9,7 +9,7 @@
 
 ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture51.png)
  
-2. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json). 
+2. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json).   
    
    
   
@@ -66,6 +66,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDg1MjUwMywtMTQ1OTQ5NDkzMSwxMz
-MyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbMTM5NzUwMTMzNSwxNDMwODUyNTAzLC0xND
+U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
+MDY5Nl19
 -->
