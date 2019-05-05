@@ -31,20 +31,14 @@ the group created for you
 
  - *LDAPS URL* :   Leave it at default
  - *Virtual Network*: Select the VNet provided to you
- - *Subnet*: Blank
- - *Identity*: Use the AAD-DS Managed Identity provided to you
+ - *Subnet*: default
+ - *User-assigned managed Identity*: Use the AAD-DS Managed Identity provided to you
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
  
 
-
-
-3. In the *User-assigned managed identity* section select the Managed Identity *MGI1* that was created in section 1.7.
-
-![HDICreate5](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture32.png)
-
-4. In the *Storage* blade populate details of the storage account.
+4. In the Storage blade populate details of the storage account.
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture33.png)
 
@@ -66,7 +60,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5Nzc5NDA1LDE0MzA4NTI1MDMsLTE0NT
-k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
-Njk2XX0=
+eyJoaXN0b3J5IjpbLTUzNzMzNzQ1OCwxNDMwODUyNTAzLC0xND
+U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
+MDY5Nl19
 -->
