@@ -16,8 +16,10 @@
 
 7. To enable communication between HDInsight and ADDS , HDInsight clusters can be optionally created with the ADDS VNet . If they are created in a separate VNet(recommended approach) , that VNet needs to be [peered](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview) with the ADDS VNet. This way multiple HDInsight clusters VNets can be peered to the ADDS VNet. The current limit for virtual network peerings for a virtual network in Azure is [500](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits). 
 
+8. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTQ0ODAzOSwyMDUyMjE0OTg5LC0yMD
+eyJoaXN0b3J5IjpbLTc5MzY1ODA2MywyMDUyMjE0OTg5LC0yMD
 Y4Njc1OTkzLC0xNjk1NzI2NzM2LDk2Nzg2NTAyOCwtMTc2NzA0
 OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNzY5OF19
 -->
