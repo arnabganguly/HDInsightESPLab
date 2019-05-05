@@ -38,7 +38,8 @@ the group created for you
 
  
 
-4. In the **Storage** blade populate details of the storage account that was provided to you. 
+4. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
+         - 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -60,7 +61,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDEzNjcwOCwxNDMwODUyNTAzLC0xND
-U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
-MDY5Nl19
+eyJoaXN0b3J5IjpbLTEyNzI1OTMyNTIsMTQzMDg1MjUwMywtMT
+Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
+MzA2OTZdfQ==
 -->
