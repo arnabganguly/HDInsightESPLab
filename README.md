@@ -19,11 +19,12 @@ HDInsight ESP uses Azure Active Directory Domain Services(AAD-DS). Hence there i
 
 **Stages**
 1. AAD-DS is already set up and is provided. 
-2. Create ESP enabled HDInsight cluster with provided credentials. 
-4. Create and test Ranger policies on HDInsight cluster. 
+2. [Create ESP enabled HDInsight cluster with provided credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md) 
+4. [Create and test Ranger policies on HDInsight cluster.](https://stackedit.io/app#providerId=githubWorkspace&owner=arnabganguly&repo=HDInsightESPLab&branch=master) 
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODQ4MDAyMSwtMTkwMzcyODA0Nl19
+eyJoaXN0b3J5IjpbLTE3OTQ3OTYzNjYsLTE5MDM3MjgwNDZdfQ
+==
 -->
