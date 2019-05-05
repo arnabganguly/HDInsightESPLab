@@ -13,7 +13,7 @@
    
    
   
- 2. Choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
+ 2. On the **Basics** blade , first choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
 
 >**Note:**
 > 
@@ -66,7 +66,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzUwMTMzNSwxNDMwODUyNTAzLC0xND
-U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
-MDY5Nl19
+eyJoaXN0b3J5IjpbLTIwNTk1MTY5NDYsMTQzMDg1MjUwMywtMT
+Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
+MzA2OTZdfQ==
 -->
