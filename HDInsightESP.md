@@ -37,7 +37,7 @@ the group created for you*
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
  
- Populate the fields in the sections below. 
+ 3. In the **Storage** blade populate the fields in the sections below. 
     
   ### Storage
 
@@ -56,7 +56,7 @@ the group created for you*
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
-5. Leave the *Applications* Blade to default with no applications selected.
+5. Leave the Applications Blade to default with no applications selected.
 
 6. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
 
@@ -74,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA1MzkyMjEsMTQzMDg1MjUwMywtMT
+eyJoaXN0b3J5IjpbLTE3MDA2NDIzMTcsMTQzMDg1MjUwMywtMT
 Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
 MzA2OTZdfQ==
 -->
