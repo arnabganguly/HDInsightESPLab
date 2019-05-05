@@ -4,7 +4,7 @@ This lab explains the steps needed to enable Apache Ranger on **HDInsight** usin
 
 HDInsight ESP uses Azure Active Directory Domain Services(AAD-DS). Hence there is a need for us to create AAD-DS and related resources before we can begin with enabling ESP in HDInsight. 
 
-A discussion on the architecture of the setup can be found here. 
+A discussion on the [architecture of the setup can be found here](https://github.com/arnabganguly/HDInsightESPLab/blob/master/Architecture.md). 
 
 Only portal-based creation is discussed in this blog, but the same can be automated through ARM scripts. The names and regions used in this blog are not mandatory and can be chosen as per the customer requirements.
 
@@ -29,6 +29,6 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc5MTI4NzgsLTE3OTQ3OTYzNjYsLT
+eyJoaXN0b3J5IjpbLTEwMDI0NjQ4NDIsLTE3OTQ3OTYzNjYsLT
 E5MDM3MjgwNDZdfQ==
 -->
