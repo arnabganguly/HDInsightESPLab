@@ -31,17 +31,12 @@ Group: *HbaseControlledAccess*. Please note that this group has the user *hbaser
  - *LDAPS URL* :   Leave it at default
  - *Virtual Network*: Select the VNet provided to you
  - *Subnet*: Blank
- - *Identity*: Use the Managed Identity provided to you
+ - *Identity*: Use the AAD-DS Managed Identity provided to you
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
 
  ![HDICreate4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
 
-
-
->**Note:**
-> 
->Choose the Virtual Network and the Subnet in which the HDInsight cluster will be created in. For this example we would create the HDInsight cluster in a different Subnet:*HDInsight* within VNet:*Contoso_VNet*. You could also choose to create HDInsight in a different VNet altogether in which case you would have to configure VNet Peering and port forwarding between the VNets.
 
 
 3. In the *User-assigned managed identity* section select the Managed Identity *MGI1* that was created in section 1.7.
@@ -70,5 +65,5 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDgyMDgxMCwtMTY3NTYzMDY5Nl19
+eyJoaXN0b3J5IjpbLTMwMTcxOTY4MywtMTY3NTYzMDY5Nl19
 -->
