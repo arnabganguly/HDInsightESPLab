@@ -29,10 +29,9 @@ d. A VNet for you to inject your HDInsight cluster into.
 Group: *HbaseControlledAccess*. Please note that this group has the user *hbaserestricted@xxxxxx.onmicrosoft.com* 
 
  - *LDAPS URL* :   Leave it at default
-     ldaps://contoso.com:636
- - *Virtual Network*: Contoso_Vnet/HDIESPDemo
- - *Subnet*: HDInsight
- - *Identity*: MGI1
+ - *Virtual Network*: Select the VNet provided to you
+ - *Subnet*: Blank
+ - *Identity*: Use the Managed Identity provided to you
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture30.png) 
 
@@ -71,6 +70,5 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU2NzAwMDgsLTE2NzU2MzA2OTZdfQ
-==
+eyJoaXN0b3J5IjpbMjEyNDgyMDgxMCwtMTY3NTYzMDY5Nl19
 -->
