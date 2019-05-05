@@ -56,13 +56,13 @@ the group created for you*
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
-5. Leave the Applications Blade to default with no applications selected.
+5. Leave the **Applications** Blade to default with no applications selected.
 
-6. In the *Cluster Size* blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
+6. In the **Cluster Size** blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
 
-7. Leave the *Script Actions* blade to default with no script actions.  
+7. Leave the **Script Actions** blade to default with no script actions.  
 
-8. In the *Cluster Summary* Page click *Create* to start HDInsight cluster deployment. The cluster can take up to 20 minutes to create.
+8. In the **Cluster Summary** Page click *Create* to start HDInsight cluster deployment. The cluster can take up to 20 minutes to create.
 
 
 This concludes the deployment of an HDInsight cluster with Enterprise Security Package enabled. 
@@ -74,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA2NDIzMTcsMTQzMDg1MjUwMywtMT
-Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
-MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbNjcyNzQ3NDAxLDE0MzA4NTI1MDMsLTE0NT
+k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
+Njk2XX0=
 -->
