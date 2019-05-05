@@ -30,9 +30,9 @@
 the group created for you* 
 
  - **LDAPS URL** :   *Leave it at default*
- - Virtual Network: Select the VNet provided to you
- - *Subnet*: default
- - *User-assigned managed Identity*: Use the AAD-DS Managed Identity provided to you
+ - **Virtual Network**: *Select the VNet provided to you*
+ - **Subnet**: *default*
+ - **User-assigned managed Identity**: *Use the AAD-DS Managed Identity provided to you*
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
@@ -40,8 +40,9 @@ the group created for you*
 
 3. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
     
- - Primary storage type : Azure Data Lake Storage Gen 2
- - Select a storage account: Select the storage account in your resource group
+ - **Primary storage type** : *Azure Data Lake Storage Gen 2*
+ - **Select a storage account**: *Select the storage account in your resource group*
+ - Filsystem :  Leave it at the default blob na
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -63,7 +64,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYxNzcxMjksMTQzMDg1MjUwMywtMT
-Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
-MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbLTM2NjU0MTQxMywxNDMwODUyNTAzLC0xND
+U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
+MDY5Nl19
 -->
