@@ -9,11 +9,11 @@
 
 3. A cloud only Azure active directory does not have an on-premise identity footprint and all users , groups, group memberships and passwords are  all native to the cloud. 
 
-4. During deployment Azure Active directory domain services depl
+4. During deployment Azure Active directory domain services deploys a managed domain within a VNet(ADDS VNet). Services  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MzMzNTY2LDk2Nzg2NTAyOCwtMTc2Nz
+eyJoaXN0b3J5IjpbNzQ3NTcxNDEyLDk2Nzg2NTAyOCwtMTc2Nz
 A0OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNzY5OF19
 -->
