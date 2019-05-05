@@ -38,7 +38,7 @@ the group created for you*
 
  
 
-3. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
+ - In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
     
     ### Storage
 
@@ -46,8 +46,10 @@ the group created for you*
  - **Select a storage account**: *Select the storage account in your resource group*
  - **Filesystem** :  *Leave it at the default blob name generated*
  
- ##Identity 
+ ### Identity 
 
+ - **Subscription**: *Choose the subscription you are assigned to*
+ - User-assigned managed identity: 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -69,7 +71,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDg5MzY4MSwxNDMwODUyNTAzLC0xND
-U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
-MDY5Nl19
+eyJoaXN0b3J5IjpbLTEyMTk4MjU0MDEsMTQzMDg1MjUwMywtMT
+Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
+MzA2OTZdfQ==
 -->
