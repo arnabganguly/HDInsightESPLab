@@ -38,8 +38,10 @@ the group created for you
 
  
 
-4. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
-         - 
+3. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
+    
+ - Primary storage type : Azure Data Lake Storage Gen 2
+ - 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -61,7 +63,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1OTMyNTIsMTQzMDg1MjUwMywtMT
-Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
-MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbLTQwMDI4MDM4LDE0MzA4NTI1MDMsLTE0NT
+k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
+Njk2XX0=
 -->
