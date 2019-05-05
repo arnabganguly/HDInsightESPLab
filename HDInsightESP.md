@@ -19,7 +19,7 @@
 > 
 >HDInsight cluster creation process with ESP Enabled is the same for all types of allowable HDInsight clusters. So, this process is only discussed only once. You can choose from HBase , Hadoop ,Kafka and Spark as cluster types during creation.
   
-![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture29.png)
+![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png)
   
     
 2. In the *Security + networking* blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
@@ -66,6 +66,6 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNj
-c1NjMwNjk2XX0=
+eyJoaXN0b3J5IjpbLTE0NTk0OTQ5MzEsMTMzMjI3Njc1OSwtMz
+AxNzE5NjgzLC0xNjc1NjMwNjk2XX0=
 -->
