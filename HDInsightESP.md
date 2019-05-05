@@ -23,14 +23,14 @@
   
     
 2. In the **Security + networking** blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
- - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select 
- user created for you
+ - **Cluster Admin**: *Select the Cluster admin user from the users available in Azure. For this lab select 
+ user created for you*
  
- - *Cluster access group*: Choose the Azure Active Directory group that would have access to the cluster. User's assigned to this group will inherit the role assigned to the group. For this lab select 
-the group created for you 
+ - **Cluster access group**: *Choose the Azure Active Directory group that would have access to the cluster. User's assigned to this group will inherit the role assigned to the group. For this lab select 
+the group created for you* 
 
- - *LDAPS URL* :   Leave it at default
- - *Virtual Network*: Select the VNet provided to you
+ - **LDAPS URL** :   *Leave it at default*
+ - Virtual Network: Select the VNet provided to you
  - *Subnet*: default
  - *User-assigned managed Identity*: Use the AAD-DS Managed Identity provided to you
 
@@ -41,7 +41,7 @@ the group created for you
 3. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
     
  - Primary storage type : Azure Data Lake Storage Gen 2
- - 
+ - Select a storage account: Select the storage account in your resource group
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
 
@@ -63,7 +63,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDI4MDM4LDE0MzA4NTI1MDMsLTE0NT
-k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
-Njk2XX0=
+eyJoaXN0b3J5IjpbLTEzOTYxNzcxMjksMTQzMDg1MjUwMywtMT
+Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
+MzA2OTZdfQ==
 -->
