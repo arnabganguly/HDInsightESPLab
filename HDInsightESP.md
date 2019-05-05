@@ -22,7 +22,7 @@
 ![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture55.png)
   
     
-2. In the *Security + networking* blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
+2. In the **Security + networking** blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
  - *Cluster Admin*: Select the Cluster admin user from the users available in Azure. For this lab select 
  user created for you
  
@@ -36,7 +36,7 @@ the group created for you
 
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png) 
 
- ![HDICreate4](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture31.png)
+ 
 
 
 
@@ -66,7 +66,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk1MTY5NDYsMTQzMDg1MjUwMywtMT
+eyJoaXN0b3J5IjpbLTE4NTE4OTk5MjIsMTQzMDg1MjUwMywtMT
 Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
 MzA2OTZdfQ==
 -->
