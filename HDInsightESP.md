@@ -40,11 +40,13 @@ the group created for you*
 
 3. In the **Storage** blade populate details of the storage account that was provided to you. Populate the fields below.
     
-    ###Storage
+    ### Storage
+
  - **Primary storage type** : *Azure Data Lake Storage Gen 2*
  - **Select a storage account**: *Select the storage account in your resource group*
  - **Filesystem** :  *Leave it at the default blob name generated*
- - Identity : The sub
+ 
+ ##Identity 
 
 
 ![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture54.png)
@@ -67,7 +69,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0ODk1MTE1LDE0MzA4NTI1MDMsLTE0NT
-k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
-Njk2XX0=
+eyJoaXN0b3J5IjpbMTU4NDg5MzY4MSwxNDMwODUyNTAzLC0xND
+U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
+MDY5Nl19
 -->
