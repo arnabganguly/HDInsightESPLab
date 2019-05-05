@@ -37,7 +37,7 @@ the group created for you*
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
  
- Populate the fields below.
+ Populate the fields in the sections below. 
     
   ### Storage
 
@@ -74,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTQ3Njk3OSwxNDMwODUyNTAzLC0xND
-U5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4MywtMTY3NTYz
-MDY5Nl19
+eyJoaXN0b3J5IjpbLTEyMTA1MzkyMjEsMTQzMDg1MjUwMywtMT
+Q1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2ODMsLTE2NzU2
+MzA2OTZdfQ==
 -->
