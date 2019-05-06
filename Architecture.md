@@ -26,16 +26,17 @@
 
 **More Resources** 
 
-    
-
- - HDInsight ESP
+   
+ - [HDInsight Enterprise Security Package](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-architecture) 
+ - [Azure Data Lake Gen2 with HDInsight cluster](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2)
+ - Azure Active directory domain services
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDY3MjU4MiwxMTczOTUzOTk3LC05MT
-Y1Mjg2MjYsLTE0OTcyNjIxNzIsLTc5MzY1ODA2MywyMDUyMjE0
-OTg5LC0yMDY4Njc1OTkzLC0xNjk1NzI2NzM2LDk2Nzg2NTAyOC
-wtMTc2NzA0OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNzY5OF19
+eyJoaXN0b3J5IjpbNjMzNTM4MzI1LDExNzM5NTM5OTcsLTkxNj
+UyODYyNiwtMTQ5NzI2MjE3MiwtNzkzNjU4MDYzLDIwNTIyMTQ5
+ODksLTIwNjg2NzU5OTMsLTE2OTU3MjY3MzYsOTY3ODY1MDI4LC
+0xNzY3MDQ5MDM4LC0xODA1MTU3MzkwLC0xNzY2OTM3Njk4XX0=
 
 -->
