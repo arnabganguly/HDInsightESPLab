@@ -18,11 +18,11 @@
 
 8. The [Managed Identity](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview) feature in Azure can be used to authenticate via a service principal to any service that supports Azure AD authentication. In this architecture, there are two user-assigned managed service identities.
 
-9.   
+9.   The user-assigned managed identity 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcyNjIxNzIsLTc5MzY1ODA2MywyMD
-UyMjE0OTg5LC0yMDY4Njc1OTkzLC0xNjk1NzI2NzM2LDk2Nzg2
-NTAyOCwtMTc2NzA0OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNz
-Y5OF19
+eyJoaXN0b3J5IjpbMTEwNzQ0ODg0MiwtMTQ5NzI2MjE3MiwtNz
+kzNjU4MDYzLDIwNTIyMTQ5ODksLTIwNjg2NzU5OTMsLTE2OTU3
+MjY3MzYsOTY3ODY1MDI4LC0xNzY3MDQ5MDM4LC0xODA1MTU3Mz
+kwLC0xNzY2OTM3Njk4XX0=
 -->
