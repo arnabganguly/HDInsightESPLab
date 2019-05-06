@@ -16,13 +16,13 @@
 
 7. To enable communication between HDInsight and ADDS , HDInsight clusters can be optionally created with the ADDS VNet . If they are created in a separate VNet(recommended approach) , that VNet needs to be [peered](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview) with the ADDS VNet. This way multiple HDInsight clusters VNets can be peered to the ADDS VNet. The current limit for virtual network peerings for a virtual network in Azure is [500](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits). 
 
-8. The [Managed Identity](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview) feature in Azure can be used to authenticate via a service principal to any service that supports Azure AD authentication. In this architecture, there are two user-assigned managed service identities.
+8. The [Managed Identity](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)(MI) feature in Azure can be used to authenticate via a service principal to any service that supports Azure AD authentication. In this architecture, there are two user-assigned managed service identities.
 
-9.   The user-assigned managed identity , **AAD-DS MSI**  is created and assigned with the role of 
+9.   The user-assigned managed identity , **AAD-DS MSI**  is created and assigned with the role of *HDInsight Domain Service Contributor* to the Azure AAD-DS. This MI is used on the HDInsight cluster and is used as the service principal to authenticate to the AAD-DS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDEwOTczNiwtMTQ5NzI2MjE3MiwtNz
-kzNjU4MDYzLDIwNTIyMTQ5ODksLTIwNjg2NzU5OTMsLTE2OTU3
-MjY3MzYsOTY3ODY1MDI4LC0xNzY3MDQ5MDM4LC0xODA1MTU3Mz
-kwLC0xNzY2OTM3Njk4XX0=
+eyJoaXN0b3J5IjpbNDk3NjY4MzQzLC0xNDk3MjYyMTcyLC03OT
+M2NTgwNjMsMjA1MjIxNDk4OSwtMjA2ODY3NTk5MywtMTY5NTcy
+NjczNiw5Njc4NjUwMjgsLTE3NjcwNDkwMzgsLTE4MDUxNTczOT
+AsLTE3NjY5Mzc2OThdfQ==
 -->
