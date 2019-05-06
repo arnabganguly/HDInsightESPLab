@@ -24,10 +24,16 @@
 
 10. The second user-assigned managed identity, **Storage MSI** is created and assigned to the Azure Data Lake Gen2(ADLS Gen2) storage account with the role of *Storage Blob Data Owner* role. This MI is replayed  on to the HDInsight cluster during deployment and is used as the service principal to authenticate to the ADLS Gen2 during runtime. 
 
-11. 
+**More Resources** 
+
+    
+
+ - HDInsight ESP
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTAxNzEzMSwxMTczOTUzOTk3LC05MT
+eyJoaXN0b3J5IjpbLTY3MDY3MjU4MiwxMTczOTUzOTk3LC05MT
 Y1Mjg2MjYsLTE0OTcyNjIxNzIsLTc5MzY1ODA2MywyMDUyMjE0
 OTg5LC0yMDY4Njc1OTkzLC0xNjk1NzI2NzM2LDk2Nzg2NTAyOC
 wtMTc2NzA0OTAzOCwtMTgwNTE1NzM5MCwtMTc2NjkzNzY5OF19
