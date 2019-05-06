@@ -20,11 +20,11 @@
 
 9.   The user-assigned managed identity , **AAD-DS MSI**  is created and assigned with the role of *HDInsight Domain Service Contributor* to the Azure AAD-DS. This MI is replayed  on to the HDInsight cluster during deployment and is used as the service principal to authenticate to the AAD-DS during runtime. 
 
-10. The second user-assigned managed identity, **Storage MSI** is created and assigned to an Azure 
+10. The second user-assigned managed identity, **Storage MSI** is created and assigned to the Azure Data Lake Gen2(ADLS Gen2) storage account with the role of *Storage Blob Data Owner* role. This MI is replayed  on to the HDInsight cluster during deployment and is used as the service principal to authenticate to the AAD-DS during runtime. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM5MjU2MywtMTQ5NzI2MjE3MiwtNz
-kzNjU4MDYzLDIwNTIyMTQ5ODksLTIwNjg2NzU5OTMsLTE2OTU3
-MjY3MzYsOTY3ODY1MDI4LC0xNzY3MDQ5MDM4LC0xODA1MTU3Mz
-kwLC0xNzY2OTM3Njk4XX0=
+eyJoaXN0b3J5IjpbNjExMTU3MzgyLC0xNDk3MjYyMTcyLC03OT
+M2NTgwNjMsMjA1MjIxNDk4OSwtMjA2ODY3NTk5MywtMTY5NTcy
+NjczNiw5Njc4NjUwMjgsLTE3NjcwNDkwMzgsLTE4MDUxNTczOT
+AsLTE3NjY5Mzc2OThdfQ==
 -->
