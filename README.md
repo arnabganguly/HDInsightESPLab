@@ -24,11 +24,11 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 **Stages**
 1. AAD-DS is already set up and is provided. 
 2. [Create ESP enabled HDInsight cluster with provided credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md) 
-4. [Create and test Ranger policies on HDInsight cluster.](https://stackedit.io/app#providerId=githubWorkspace&owner=arnabganguly&repo=HDInsightESPLab&branch=master) 
+4. [Create and test Ranger policies on HDInsight cluster.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/RangerPolicyMgmt.md) 
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI0NjQ4NDIsLTE3OTQ3OTYzNjYsLT
-E5MDM3MjgwNDZdfQ==
+eyJoaXN0b3J5IjpbLTYzMjM5OTQ1MywtMTAwMjQ2NDg0MiwtMT
+c5NDc5NjM2NiwtMTkwMzcyODA0Nl19
 -->
