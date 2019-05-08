@@ -45,7 +45,8 @@ scan 'Customers'
 
 ## 2.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. The ranger portal can be accessed at the below URL. 
+1. This step would assign roles and p
+2. The ranger portal can be accessed at the below URL. 
 
 ````
    https://<clustername>.azurehdinsight.net/ranger/
@@ -88,7 +89,7 @@ scan 'Customers'
 
 ## 3.0 Test Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. SSH into the cluster using the below credentials 
+1. To emulate a user with less privileges logging in , SSH into the cluster using the **clusteruser** credentials , .
 
 ````
  ssh clusteruser@<clustername>-ssh.azurehdinsight.com
@@ -125,8 +126,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODMxMjMyNiwtMTEwNDgzMDMzMywxMj
-kxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0
-LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMT
-A5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExMDk1MDQwMjUsMTkyODMxMjMyNiwtMT
+EwNDgzMDMzMywxMjkxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1
+NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LD
+E1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
