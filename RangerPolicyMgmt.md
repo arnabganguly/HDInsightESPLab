@@ -124,11 +124,13 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
  - [Azure HDInsight Documentation](https://docs.microsoft.com/en-us/azure/hdinsight/) 
  - [Enterprise Security Package for HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-introduction)
+ - [Configure HDInsight Kafka policies with ESP](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-kafka) 
 
->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc5Nzg2MTUsMTkyODMxMjMyNiwtMT
-EwNDgzMDMzMywxMjkxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1
-NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LD
-E1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5NDk1NTM2MTgsLTE1NTc5Nzg2MTUsMT
+kyODMxMjMyNiwtMTEwNDgzMDMzMywxMjkxMjY2OTY3LDk1ODg0
+OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAwLC
+0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMjA4
+ODc0NjYxMl19
 -->
