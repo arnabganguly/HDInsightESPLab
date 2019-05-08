@@ -31,6 +31,17 @@ put 'Customers','1002','Contact:State','WA'
 put 'Customers','1002','Contact:ZipCode','98008'
 ```
 
+5. From your Hbase shell scan the *Customers* table
+
+```
+hbase shell
+scan 'Customers'
+````
+
+6. Notice all columns of the Column families of the 'Customers' table can be read using the **clusteradmin**.
+
+![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture50.png)
+
 
 ## 2.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
 
@@ -80,24 +91,14 @@ put 'Customers','1002','Contact:ZipCode','98008'
 6. SSH into the cluster using the below credentials 
 
 ````
- ssh clusteadmin@<clustername>-ssh.azurehdinsight.com
+ ssh clusteruser@<clustername>-ssh.azurehdinsight.com
 ````
 
 
 >**Note:**
-> 
 >If you are already logged in, you could use *kinit* to switch between cluster users.
 
-7. Start the Hbase shell and scan the *Customers* table
 
-```
-hbase shell
-scan 'Customers'
-````
-
-8. Notice all columns of the Column families of the 'Customers' table can be read using the clusteradmin.
-
-![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture50.png)
 
 9. Switch the user to *hbaserestricted*
 ```
@@ -130,8 +131,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ4MzAzMzMsMTI5MTI2Njk2Nyw5NT
-g4NDkxOTMsLTMyNTQ1NTQ3MCw5Mjg2MDk4NCwtMTc4MjA1Mzcw
-MCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTYxMTQ2NDYzMiwtMTEwNDgzMDMzMywxMj
+kxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0
+LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMT
+A5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
