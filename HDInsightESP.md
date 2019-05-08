@@ -1,7 +1,9 @@
 ## Create an ESP enabled HDInsight cluster
 
 
- 1. Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
+ 1. You should have 2 user ids provided to you. One user id would be that of a cluster administrator and the other would be a regular user id for the cluster.
+  
+ 2. Log in with the user id and password provided to you. You should have access to one resource group with the below components pre-created 
  - An ADLS Gen2 storage account.
  - A Managed Identity for the storage account.
  - A managed identity for the Azure Active Directory    Domain Services(AAD-DS).
@@ -74,7 +76,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNzQ3NDAxLDE0MzA4NTI1MDMsLTE0NT
-k0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5NjgzLC0xNjc1NjMw
-Njk2XX0=
+eyJoaXN0b3J5IjpbMTk3OTQ4ODU5Niw2NzI3NDc0MDEsMTQzMD
+g1MjUwMywtMTQ1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2
+ODMsLTE2NzU2MzA2OTZdfQ==
 -->
