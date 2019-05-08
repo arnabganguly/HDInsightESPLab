@@ -95,13 +95,13 @@ hbase shell
 scan 'Customers'
 ````
 
-8. Notice all columns of the Column families of the 'Customers' table can be read.
+8. Notice all columns of the Column families of the 'Customers' table can be read using the clusteradmin.
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture50.png)
 
 9. Switch the user to *hbaserestricted*
 ```
- kinit hbaserestricted
+ kinit clusteruser
  ```
 
 10. Start the Hbase shell and scan the *Customers* table.
@@ -130,8 +130,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTU5NTUwNCwxMjkxMjY2OTY3LDk1OD
-g0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAw
-LC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExMDQ4MzAzMzMsMTI5MTI2Njk2Nyw5NT
+g4NDkxOTMsLTMyNTQ1NTQ3MCw5Mjg2MDk4NCwtMTc4MjA1Mzcw
+MCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLT
+IwODg3NDY2MTJdfQ==
 -->
