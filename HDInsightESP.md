@@ -1,6 +1,6 @@
 ## Create an ESP enabled HDInsight cluster
 
- 1. You should have 2 user credentials and passwords provided to you. One user credential is to emulate a cluster administrator and the other is to emulate a regular user for the cluster with less privileges. Both of these user ids have been set up for you in the Azure Active Directory.Do not change the passwords for any of the users. 
+ 1. You should have 2 user credentials and passwords provided to you. One user credential is to emulate a **cluster administrator** and the other is to emulate a **regular user** for the cluster with less privileges. Both of these user ids have been set up for you in the Azure Active Directory. Do not change the passwords for any of the users. 
   
  2. Log in with the regular user id and password provided to you. You should have access to one resource group with the below components pre-created 
  - An ADLS Gen2 storage account.
@@ -24,8 +24,7 @@
   
     
 5. In the **Security + networking** blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
- - **Cluster Admin**: *Select the Cluster admin user from the users available in Azure. For this lab select 
- user created for you*
+ - **Cluster Admin**: *Select the **cluster administrator** user provided to you in step 1.* 
  
  - **Cluster access group**: *Choose the Azure Active Directory group that would have access to the cluster. User's assigned to this group will inherit the role assigned to the group. For this lab select 
 the group created for you* 
@@ -75,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjI5NTcwNiw2NzI3NDc0MDEsMTQzMD
-g1MjUwMywtMTQ1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2
-ODMsLTE2NzU2MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbMjIyMDMwODA2LDY3Mjc0NzQwMSwxNDMwOD
+UyNTAzLC0xNDU5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4
+MywtMTY3NTYzMDY5Nl19
 -->
