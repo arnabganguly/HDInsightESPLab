@@ -59,7 +59,7 @@ the group created for you*
 
 5. Leave the **Applications** Blade to default with no applications selected.
 
-6. In the **Cluster Size** blade restrict  the **number of datanodes  to one** and retain the default number of zookeeper nodes.
+6. In the **Cluster Size** blade restrict  the **number of datanodes  to one**(to manage costs) and retain the default number of zookeeper nodes.
 
 7. Leave the **Script Actions** blade to default with no script actions.  
 
@@ -75,7 +75,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODc1NDUxMiw2NzI3NDc0MDEsMTQzMD
+eyJoaXN0b3J5IjpbLTIwMTM5NDg4OSw2NzI3NDc0MDEsMTQzMD
 g1MjUwMywtMTQ1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2
 ODMsLTE2NzU2MzA2OTZdfQ==
 -->
