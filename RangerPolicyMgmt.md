@@ -88,7 +88,7 @@ scan 'Customers'
 
 ## 3.0 Test Apache Ranger policies on ESP enabled HDInsight clusters
 
-6. SSH into the cluster using the below credentials 
+1. SSH into the cluster using the below credentials 
 
 ````
  ssh clusteruser@<clustername>-ssh.azurehdinsight.com
@@ -99,24 +99,18 @@ scan 'Customers'
 >If you are already logged in, you could use *kinit* to switch between cluster users.
 
 
-
-9. Switch the user to *hbaserestricted*
-```
- kinit clusteruser
- ```
-
-10. Start the Hbase shell and scan the *Customers* table.
+2. Start the Hbase shell and scan the *Customers* table.
 
 ```
 hbase shell
 scan 'Customers'
 ```
 
-11. Notice that only the 'Contact' column of the column families can be read based on the specified Ranger policies. 
+3. Notice that only the 'Contact' column of the column families can be read based on the specified Ranger policies. 
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture49.png)
 
-12. Apache Ranger on HDinsight can also be used to configure user authorization policies for [Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-kafka) and [Hive](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-hive).  
+4. Apache Ranger on HDinsight can also be used to configure user authorization policies for [Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-kafka) and [Hive](https://docs.microsoft.com/en-us/azure/hdinsight/domain-joined/apache-domain-joined-run-hive).  
  
 This concludes the HDInsight ESP lab . In this Lab we explored 
 
@@ -131,7 +125,7 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTQ2NDYzMiwtMTEwNDgzMDMzMywxMj
+eyJoaXN0b3J5IjpbMTkyODMxMjMyNiwtMTEwNDgzMDMzMywxMj
 kxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0
 LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMT
 A5NTkwMzAxMCwtMjA4ODc0NjYxMl19
