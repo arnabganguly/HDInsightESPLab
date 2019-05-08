@@ -27,7 +27,7 @@
  - **Cluster Admin**: *Select the ***cluster administrator*** user provided to you in step 1.* 
  
  - **Cluster access group**: *Choose the Azure Active Directory group that would have access to the cluster. User's assigned to this group will inherit the role assigned to the group. For this lab select 
-the group created for you*. The cluster user would be part of this group.
+the group created for you*. *The **cluster user** is part of this group.*
 
  - **LDAPS URL** :   *Leave it at default*
  - **Virtual Network**: *Select the VNet provided to you*
@@ -74,7 +74,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM5ODg5OSw2NzI3NDc0MDEsMTQzMD
-g1MjUwMywtMTQ1OTQ5NDkzMSwxMzMyMjc2NzU5LC0zMDE3MTk2
-ODMsLTE2NzU2MzA2OTZdfQ==
+eyJoaXN0b3J5IjpbOTQxNTc4MzY3LDY3Mjc0NzQwMSwxNDMwOD
+UyNTAzLC0xNDU5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4
+MywtMTY3NTYzMDY5Nl19
 -->
