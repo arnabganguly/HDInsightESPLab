@@ -8,6 +8,7 @@
 > 
 >Instead of using *sshuser* we could also used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
 
+2. Use your *cluster administrator user* to log into the cluster 
 2. Launch the HBase shell.
 ```
 hbase shell
@@ -133,8 +134,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTI2Njk2Nyw5NTg4NDkxOTMsLTMyNT
-Q1NTQ3MCw5Mjg2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1MDY1
-OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjAyMzI1MjI5NSwxMjkxMjY2OTY3LDk1OD
+g0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAw
+LC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMj
+A4ODc0NjYxMl19
 -->
