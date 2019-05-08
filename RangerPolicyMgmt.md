@@ -1,12 +1,10 @@
 ## 1.0 Create HBase table and add data to the table
 
-1. SSH into the HDInsight cluster using 
+1. SSH into the HDInsight cluster using the below CLI command and authenticate using the **cluster administrator** username and password provided to you. 
  ````
- ssh sshuser@<clustername>-ssh.azurehdinsight.com
+ ssh clusteradmin@<clustername>-ssh.azurehdinsight.com
 ````
->**Note:**
-> 
->Instead of using *sshuser* we could also used the *Cluster Admin* user with domain credentials and the corresponding password that was set for this user in section 1.5.
+
 
 2. Use your *cluster administrator user* to log into the cluster 
 2. Launch the HBase shell.
@@ -134,8 +132,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzI1MjI5NSwxMjkxMjY2OTY3LDk1OD
-g0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAw
-LC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzk3ODM0NzY3LDEyOTEyNjY5NjcsOTU4OD
+Q5MTkzLC0zMjU0NTU0NzAsOTI4NjA5ODQsLTE3ODIwNTM3MDAs
+LTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMD
+g4NzQ2NjEyXX0=
 -->
