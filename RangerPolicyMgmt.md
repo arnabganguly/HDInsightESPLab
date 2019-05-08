@@ -5,8 +5,6 @@
  ssh clusteradmin@<clustername>-ssh.azurehdinsight.com
 ````
 
-
-2. Use your *cluster administrator user* to log into the cluster 
 2. Launch the HBase shell.
 ```
 hbase shell
@@ -44,10 +42,10 @@ put 'Customers','1002','Contact:ZipCode','98008'
 
 ![Ranger1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture36.png)
 
- 2. Log onto Ranger with the below username and password 
+ 2. Log onto Ranger with the **cluster administrator** username and password 
  ````    
- - Username: hdinsightadmin@xxxxxx.onmicrosoft.com
- - Password: <Password you set in section 1.5>
+ - Username: clusteradmin@xxxxxx.onmicrosoft.com
+ - Password: <Provided of cluster administrator provided to you>
 ````
  
   3. Click on the Settings icon on the header to see the list of users and groups. Explore if the users and groups that were selected from Azure Active Directory in step 2 of section 2.1 have made it to Ranger.
@@ -132,8 +130,8 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3ODM0NzY3LDEyOTEyNjY5NjcsOTU4OD
-Q5MTkzLC0zMjU0NTU0NzAsOTI4NjA5ODQsLTE3ODIwNTM3MDAs
-LTEwNzc0NTA2NTgsMTUyNjkxODkzNywxMDk1OTAzMDEwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTYzNzYxODkwNywxMjkxMjY2OTY3LDk1OD
+g0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAw
+LC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMj
+A4ODc0NjYxMl19
 -->
