@@ -1,6 +1,5 @@
 ## Create an ESP enabled HDInsight cluster
 
-
  1. You should have 2 user ids and passwords provided to you. One user id is to emulate a cluster administrator and the other is to emulate a regular user id for the cluster. Do not change the passwords for any of the users. 
   
  2. Log in with the regular user id and password provided to you. You should have access to one resource group with the below components pre-created 
@@ -11,11 +10,11 @@
 
 ![HDICreate1](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture51.png)
  
-2. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json).   
+3. Search HDInsight from central search field in the Azure Portal and then click *Create*.   More details on how to create HDInsight clusters from the Azure Portal please refer this [link](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-portal?toc=/en-us/azure/hdinsight/hadoop/TOC.json&bc=/en-us/azure/bread/toc.json).   
    
    
   
- 2. On the **Basics** blade , first choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
+ 4. On the **Basics** blade , first choose ‘*Custom*’ on create options and populate the requisite fields in the *Basics* blade. Choose *Cluster type* as *HBase* for this lab.
 
 >**Note:**
 > 
@@ -24,7 +23,7 @@
 ![HDICreate2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture55.png)
   
     
-2. In the **Security + networking** blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
+5. In the **Security + networking** blade and on the *Enterprise Security Package* option choose *Enabled*. HDInsight automatically recognizes the  domain and populates the users and groups that we had created earlier in section 1.5. Populate the fields in the blade as described below.  
  - **Cluster Admin**: *Select the Cluster admin user from the users available in Azure. For this lab select 
  user created for you*
  
@@ -39,7 +38,7 @@ the group created for you*
 ![HDICreate3](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture53.png) 
 
  
- 3. In the **Storage** blade populate the fields in the sections below. 
+ 6. In the **Storage** blade populate the fields in the sections below. 
     
   ### Storage
 
@@ -60,7 +59,7 @@ the group created for you*
 
 5. Leave the **Applications** Blade to default with no applications selected.
 
-6. In the **Cluster Size** blade choose the number of datanodes and zookeeper nodes(for Kafka and Hbase cluster types).
+6. In the **Cluster Size** blade restrict  the **number of datanodes  to one** and zookeeper nodes(for Kafka and Hbase cluster types).
 
 7. Leave the **Script Actions** blade to default with no script actions.  
 
@@ -76,7 +75,7 @@ Please move to the next section to launch Apache Ranger and understand Ranger Po
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODU2MTQzLDY3Mjc0NzQwMSwxNDMwOD
-UyNTAzLC0xNDU5NDk0OTMxLDEzMzIyNzY3NTksLTMwMTcxOTY4
-MywtMTY3NTYzMDY5Nl19
+eyJoaXN0b3J5IjpbLTE4MDcxOTYxNDQsNjcyNzQ3NDAxLDE0Mz
+A4NTI1MDMsLTE0NTk0OTQ5MzEsMTMzMjI3Njc1OSwtMzAxNzE5
+NjgzLC0xNjc1NjMwNjk2XX0=
 -->
