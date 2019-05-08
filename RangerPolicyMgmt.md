@@ -67,7 +67,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
  - HBase Column: *
  - Audit Logging: *yes*
  - Select Group:
- - Select User: *hbaserestricted@xxxxxx.onmicrosoft.com*
+ - Select User: **clusteruser**@xxxxxx.onmicrosoft.com*
  - Permissions: *Read* 
 
 ![Ranger2](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture46.png)
@@ -80,7 +80,7 @@ put 'Customers','1002','Contact:ZipCode','98008'
 6. SSH into the cluster using the below credentials 
 
 ````
- ssh hdinsightclusteradmin@<clustername>-ssh.azurehdinsight.com
+ ssh clusteadmin@<clustername>-ssh.azurehdinsight.com
 ````
 
 
@@ -130,7 +130,7 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzYxODkwNywxMjkxMjY2OTY3LDk1OD
+eyJoaXN0b3J5IjpbMTQzMTU5NTUwNCwxMjkxMjY2OTY3LDk1OD
 g0OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAw
 LC0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMj
 A4ODc0NjYxMl19
