@@ -45,7 +45,7 @@ scan 'Customers'
 
 ## 2.0 Create Apache Ranger policies on ESP enabled HDInsight clusters
 
-1. This step would assign roles and p
+1. This step would assign roles and privileges using Apache ranger to a user with less privileges. 
 2. The ranger portal can be accessed at the below URL. 
 
 ````
@@ -126,7 +126,7 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk1MDQwMjUsMTkyODMxMjMyNiwtMT
+eyJoaXN0b3J5IjpbLTE1MTU2ODIyNDQsMTkyODMxMjMyNiwtMT
 EwNDgzMDMzMywxMjkxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1
 NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LD
 E1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
