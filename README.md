@@ -28,7 +28,9 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md)
 
+## Survey 
+Please do complete the [HDInsight Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6613ua2aihPk14MtaeiuDpUN0JBMVVINE9IVjBWT0dKREYzMUJIT1ZGWi4u) for us to be able to better design the product according to customer and partner preferences. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjM5OTQ1MywtMTAwMjQ2NDg0MiwtMT
-c5NDc5NjM2NiwtMTkwMzcyODA0Nl19
+eyJoaXN0b3J5IjpbNjE3NDIyMTM0LC02MzIzOTk0NTMsLTEwMD
+I0NjQ4NDIsLTE3OTQ3OTYzNjYsLTE5MDM3MjgwNDZdfQ==
 -->
