@@ -2,7 +2,7 @@
 
 1. SSH into the HDInsight cluster using the below CLI command and authenticate using the **cluster administrator** username and password provided to you. 
  ````
- ssh clusteradmin@<clustername>-ssh.azurehdinsight.com
+ ssh clusteradmin@<clustername>-ssh.azurehdinsight.net
 ````
 
 2. Launch the HBase shell.
