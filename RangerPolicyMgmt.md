@@ -2,7 +2,7 @@
 
 1. SSH into the HDInsight cluster using the below CLI command and authenticate using the **cluster administrator** username and password provided to you. 
  ````
- ssh clusteradmin@<clustername>-ssh.azurehdinsight.net
+ ssh clusteradmin@xxxxxx.onmicrosoft.com
 ````
 
 2. Launch the HBase shell.
@@ -128,9 +128,9 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk1NTM2MTgsLTE1NTc5Nzg2MTUsMT
-kyODMxMjMyNiwtMTEwNDgzMDMzMywxMjkxMjY2OTY3LDk1ODg0
-OTE5MywtMzI1NDU1NDcwLDkyODYwOTg0LC0xNzgyMDUzNzAwLC
-0xMDc3NDUwNjU4LDE1MjY5MTg5MzcsMTA5NTkwMzAxMCwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODQzMDE2OTk2LC0xOTQ5NTUzNjE4LC0xNT
+U3OTc4NjE1LDE5MjgzMTIzMjYsLTExMDQ4MzAzMzMsMTI5MTI2
+Njk2Nyw5NTg4NDkxOTMsLTMyNTQ1NTQ3MCw5Mjg2MDk4NCwtMT
+c4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5
+MDMwMTAsLTIwODg3NDY2MTJdfQ==
 -->
