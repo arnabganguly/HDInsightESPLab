@@ -15,22 +15,23 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 
 
 **Stages( Needs Azure Subscription with Owner access to AAD)** 
-1. Set up Azure Active Directory Domain Services( AAD-DS).
-2. Create ESP enabled HDInsight cluster
-4. Create and test Ranger policies on HDInsight cluster. 
+1. [Set up Azure Active Directory Domain Services( AAD-DS)](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESPlab.md).
+2. [Create ESP enabled HDInsight cluster](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)
+3. Create and test Ranger policies on HDInsight cluster. 
 
 ***Or***
 
 **Stages**
 1. AAD-DS is already set up and is provided. 
 2. [Create ESP enabled HDInsight cluster with provided credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md) 
-4. [Create and test Ranger policies on HDInsight cluster.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/RangerPolicyMgmt.md) 
+3. [Create and test Ranger policies on HDInsight cluster.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/RangerPolicyMgmt.md) 
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)
 
 ## Survey 
 Please do complete the [HDInsight Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6613ua2aihPk14MtaeiuDpUN0JBMVVINE9IVjBWT0dKREYzMUJIT1ZGWi4u) for us to be able to better design the product according to customer and partner preferences. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NDIyMTM0LC02MzIzOTk0NTMsLTEwMD
-I0NjQ4NDIsLTE3OTQ3OTYzNjYsLTE5MDM3MjgwNDZdfQ==
+eyJoaXN0b3J5IjpbNTczMzc1MTM4LDYxNzQyMjEzNCwtNjMyMz
+k5NDUzLC0xMDAyNDY0ODQyLC0xNzk0Nzk2MzY2LC0xOTAzNzI4
+MDQ2XX0=
 -->
