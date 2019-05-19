@@ -1,7 +1,7 @@
 
 ## Architecture Discussion 
 
-![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture56.png) 
+![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png) 
 
 1. By default , the standard HDInsight cluster is a singe user cluster. 
 2. ESP enables multi user access to HDInsight in conjunction with Azure Active Directory  and enables users authenticate onto HDInsight with their domain credentials. 
@@ -11,7 +11,7 @@
 4. Azure AD Domain Services provides managed domain services such as domain join, group policy, LDAP, Kerberos/NTLM authentication that are fully compatible with Windows Server Active Directory.
 
 5. A cloud only Azure active directory does not have an on-premise identity footprint. All users , groups, group memberships and passwords are all native to the cloud. 
-![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture52.png)
+![HDICreate6](https://github.com/arnabganguly/HDInsightESPLab/blob/master/images/Picture57.png)
 
 
 6. During deployment Azure Active directory domain services deploys a managed domain within a VNet(ADDS VNet). 
@@ -37,9 +37,9 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyNDY0OTcsLTE1ODg0NDYwMjIsMT
-E3Mzk1Mzk5NywtOTE2NTI4NjI2LC0xNDk3MjYyMTcyLC03OTM2
-NTgwNjMsMjA1MjIxNDk4OSwtMjA2ODY3NTk5MywtMTY5NTcyNj
-czNiw5Njc4NjUwMjgsLTE3NjcwNDkwMzgsLTE4MDUxNTczOTAs
-LTE3NjY5Mzc2OThdfQ==
+eyJoaXN0b3J5IjpbNzY4NTg4MDk0LC0yMDg5MjQ2NDk3LC0xNT
+g4NDQ2MDIyLDExNzM5NTM5OTcsLTkxNjUyODYyNiwtMTQ5NzI2
+MjE3MiwtNzkzNjU4MDYzLDIwNTIyMTQ5ODksLTIwNjg2NzU5OT
+MsLTE2OTU3MjY3MzYsOTY3ODY1MDI4LC0xNzY3MDQ5MDM4LC0x
+ODA1MTU3MzkwLC0xNzY2OTM3Njk4XX0=
 -->
