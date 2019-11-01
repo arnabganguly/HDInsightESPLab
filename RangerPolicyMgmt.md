@@ -120,6 +120,10 @@ This concludes the HDInsight ESP lab . In this Lab we explored
  - Set up an HDInsight cluster with Enterprise Security Package enabled
  - Demonstrate how ESP in conjunction with Apache Ranger can be used to control user authorization to HDInsight datasets.  
 
+
+  
+
+
 >**Further reference:**
 
  - [Azure HDInsight Documentation](https://docs.microsoft.com/en-us/azure/hdinsight/) 
@@ -128,9 +132,9 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMDE2OTk2LC0xOTQ5NTUzNjE4LC0xNT
-U3OTc4NjE1LDE5MjgzMTIzMjYsLTExMDQ4MzAzMzMsMTI5MTI2
-Njk2Nyw5NTg4NDkxOTMsLTMyNTQ1NTQ3MCw5Mjg2MDk4NCwtMT
-c4MjA1MzcwMCwtMTA3NzQ1MDY1OCwxNTI2OTE4OTM3LDEwOTU5
-MDMwMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjA5MzYzNzM1Niw4NDMwMTY5OTYsLTE5ND
+k1NTM2MTgsLTE1NTc5Nzg2MTUsMTkyODMxMjMyNiwtMTEwNDgz
+MDMzMywxMjkxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1NDcwLD
+kyODYwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5
+MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
 -->
