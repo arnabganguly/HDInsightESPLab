@@ -88,12 +88,12 @@ Log into the Azure Active directory and create the following users and groups. T
     
 For bulk user creation you could use the example code below with Azure CLI.   
 
-    $ for i in {1..n}; 
-do 
-az ad user create --display-name "ESP OCP Lab User"$i --password Esppass$i@ESP --user-principal-name espuser$i@xxxxx.onmicrosoft.com;
-az role assignment create --role "Contributor" --assignee espuser$i@hdiesp.onmicrosoft.com --resource-group <resource_group_name>;
-
-done
+    
+    for i in {1..n}; 
+    do 
+    az ad user create --display-name "ESP OCP Lab User"$i --password Esppass$i@ESP --user-principal-name espuser$i@xxxxx.onmicrosoft.com;
+    az role assignment create --role "Contributor" --assignee espuser$i@hdiesp.onmicrosoft.com --resource-group <resource_group_name>;
+    done
      
 HDInsightAdministrator group would have Admin access to all cluster resources while the other groups will have controlled access to the cluster resources which would be managed by Ranger. User’s assigned to these groups will inherit the access provided.   
 
@@ -205,7 +205,7 @@ Create a new subnet in which the HDInsight cluster will be deployed in the subse
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDYwNzQ1NywtMjAzNzMyODU1MywxMD
+eyJoaXN0b3J5IjpbMjEzNjA0NDgwNywtMjAzNzMyODU1MywxMD
 Q5OTk1ODY3LDIwMjMyMzI1NSwxNzUwODc2Njk4LDE3NTgwOTgw
 MTEsMTY0MzE5NzEyNSw2ODk4OTI4NDAsLTI2OTQ3MjU5NiwtMT
 AzMDA0MTE2OSwtNDkyNDM5OTkxLC0xOTIzODIyNjIzLDExMzU4
