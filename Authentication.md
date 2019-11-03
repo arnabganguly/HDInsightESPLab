@@ -1,3 +1,18 @@
+## Credentials and Managed Identities
+
+
+## Virtual Networks
+
+| Virtual Networks       |
+|------------|
+| agocpvnet1 |
+| agocpvnet2 |
+
+
+
+
+### User IDs and Passwords
+
 | USER                | USERID                           | PASSWORD      |
 |---------------------|----------------------------------|---------------|
 | ESP OCP Lab User 1  | espuser1@HDIESP.onmicrosoft.com  | Esppass1@ESP  |
@@ -41,5 +56,5 @@
 | ESP OCP Lab User 39 | espuser39@HDIESP.onmicrosoft.com | Esppass39@ESP |
 | ESP OCP Lab User 40 | espuser40@HDIESP.onmicrosoft.com | Esppass40@ESP |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgyOTIxMDBdfQ==
+eyJoaXN0b3J5IjpbMTUyOTQ4NDA4LC0xNDQ4MjkyMTAwXX0=
 -->
