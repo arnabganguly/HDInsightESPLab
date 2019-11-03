@@ -9,16 +9,20 @@
 | agocpvnet1 |
 | agocpvnet2 |
 
-### ADLS G2 Storage Account and Managed Identities 
+### ADLS Gen2 Storage Account and Managed Identities 
 </br>
 
-| Storage Account | Managed Identity  |
+| ADLSGen2 Storage Account | Managed Identity  |
 |-----------------|-------------------|
 | agocpadlsgen21  | agocpadlsgen21    |
 | agocpadlsgen22  | agocpadlsgen22    |
 
+### ADDS Managed Identity 
+</br>
 
-
+| ADDS Managed Identity |
+|-----------------------|
+| agocpAADDS         |
 
 
 ### User IDs and Passwords
@@ -69,5 +73,5 @@
 | ESP OCP Lab User 39 | espuser39@HDIESP.onmicrosoft.com | Esppass39@ESP |
 | ESP OCP Lab User 40 | espuser40@HDIESP.onmicrosoft.com | Esppass40@ESP |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1Mzc1MjA5LC0xNDQ4MjkyMTAwXX0=
+eyJoaXN0b3J5IjpbMTE4MzA4MTk3OCwtMTQ0ODI5MjEwMF19
 -->
