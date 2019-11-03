@@ -23,7 +23,7 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 
 **Stages(When AADS is already  created for you)**
 1. AAD-DS is already set up and is provided. 
-2. [Create ESP enabled HDInsight cluster with provided credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)  [Click to access credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/Credentials.md) (https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)  
+2. [Create ESP enabled HDInsight cluster with provided credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)  [Click to access credentials.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/Credentials.md) 
 3. [Create and test Ranger policies on HDInsight cluster.](https://github.com/arnabganguly/HDInsightESPLab/blob/master/RangerPolicyMgmt.md) 
 
 [Start Lab](https://github.com/arnabganguly/HDInsightESPLab/blob/master/HDInsightESP.md)
@@ -31,7 +31,7 @@ Only portal-based creation is discussed in this blog, but the same can be automa
 ## Survey 
 Please do complete the [HDInsight Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6613ua2aihPk14MtaeiuDpUN0JBMVVINE9IVjBWT0dKREYzMUJIT1ZGWi4u) for us to be able to better design the product according to customer and partner preferences. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNzA0NTYxLC0xOTI1NjY3MDU2LC0xMD
-k2MzkwNTI0LDYxNzQyMjEzNCwtNjMyMzk5NDUzLC0xMDAyNDY0
-ODQyLC0xNzk0Nzk2MzY2LC0xOTAzNzI4MDQ2XX0=
+eyJoaXN0b3J5IjpbMTU0NDAwMDYsLTE5MjU2NjcwNTYsLTEwOT
+YzOTA1MjQsNjE3NDIyMTM0LC02MzIzOTk0NTMsLTEwMDI0NjQ4
+NDIsLTE3OTQ3OTYzNjYsLTE5MDM3MjgwNDZdfQ==
 -->
