@@ -1,17 +1,30 @@
 ## Credentials and Managed Identities
 
 
-## Virtual Networks
+### Virtual Networks
+</br>
 
 | Virtual Networks       |
 |------------|
 | agocpvnet1 |
 | agocpvnet2 |
 
+### ADLS G2 Storage Account and Managed Identities 
+</br>
+
+| Storage Account | Managed Identity  |
+|-----------------|-------------------|
+| agocpadlsgen21  | agocpadlsgen21    |
+| agocpadlsgen22  | agocpadlsgen22    |
+
+
 
 
 
 ### User IDs and Passwords
+
+</br>
+
 
 | USER                | USERID                           | PASSWORD      |
 |---------------------|----------------------------------|---------------|
@@ -56,5 +69,5 @@
 | ESP OCP Lab User 39 | espuser39@HDIESP.onmicrosoft.com | Esppass39@ESP |
 | ESP OCP Lab User 40 | espuser40@HDIESP.onmicrosoft.com | Esppass40@ESP |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTQ4NDA4LC0xNDQ4MjkyMTAwXX0=
+eyJoaXN0b3J5IjpbMjY1Mzc1MjA5LC0xNDQ4MjkyMTAwXX0=
 -->
