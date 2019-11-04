@@ -26,7 +26,8 @@ put 'Customers','1001','Contact:ZipCode','98052'
 put 'Customers','1002','Name:First','Robert' 
 put 'Customers','1002','Name:Last','Stevens' 
 put 'Customers','1002','Contact:Phone','777-777-7777' 
-put 'Customers','1002','Contact:Address','717 177th Ave' put 'Customers','1002','Contact:City','Bellevue' 
+put 'Customers','1002','Contact:Address','717 177th Ave' 
+put 'Customers','1002','Contact:City','Bellevue' 
 put 'Customers','1002','Contact:State','WA' 
 put 'Customers','1002','Contact:ZipCode','98008'
 ```
@@ -132,9 +133,10 @@ This concludes the HDInsight ESP lab . In this Lab we explored
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzYzNzM1Niw4NDMwMTY5OTYsLTE5ND
-k1NTM2MTgsLTE1NTc5Nzg2MTUsMTkyODMxMjMyNiwtMTEwNDgz
-MDMzMywxMjkxMjY2OTY3LDk1ODg0OTE5MywtMzI1NDU1NDcwLD
-kyODYwOTg0LC0xNzgyMDUzNzAwLC0xMDc3NDUwNjU4LDE1MjY5
-MTg5MzcsMTA5NTkwMzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTgwNTg2MTc4LDIwOTM2MzczNTYsODQzMD
+E2OTk2LC0xOTQ5NTUzNjE4LC0xNTU3OTc4NjE1LDE5MjgzMTIz
+MjYsLTExMDQ4MzAzMzMsMTI5MTI2Njk2Nyw5NTg4NDkxOTMsLT
+MyNTQ1NTQ3MCw5Mjg2MDk4NCwtMTc4MjA1MzcwMCwtMTA3NzQ1
+MDY1OCwxNTI2OTE4OTM3LDEwOTU5MDMwMTAsLTIwODg3NDY2MT
+JdfQ==
 -->
